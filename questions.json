@@ -1,11 +1,425 @@
 [
     {
         "project": "fiato",
-        "question": "Fiato Airport City nằm ở đâu?",
-        "A": "Bình Dương",
-        "B": "Đồng Nai",
-        "C": "Long An",
+        "question": "Cửa chính căn hộ Fiato sử dụng chất liệu gì?",
+        "A": "Cửa nhựa",
+        "B": "Cửa gỗ công nghiệp thương hiệu An Cường",
+        "C": "Cửa thép chống cháy Trung Quốc",
+        "D": "Cửa nhôm kính Xingfa",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Khóa cửa chính căn hộ Fiato có bao nhiêu chức năng?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Thương hiệu khóa cửa chính Hafele đến từ quốc gia nào?",
+        "A": "Pháp",
+        "B": "Đức",
+        "C": "Ý",
+        "D": "Mỹ",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Phòng khách được bàn giao với loại sàn gì?",
+        "A": "Gạch men",
+        "B": "Sàn nhựa giả gỗ",
+        "C": "Sàn gạch Granite Vietceramics",
+        "D": "Sàn gỗ An Cường",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Tường phòng khách sử dụng loại sơn nào?",
+        "A": "Sơn nước 1 lớp",
+        "B": "Sơn chống thấm",
+        "C": "Sơn Jotun hoặc Nippon",
+        "D": "Sơn cao su tổng hợp",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Trần phòng khách được trang bị gì?",
+        "A": "Trần thạch cao Vĩnh Tường và đèn LED",
+        "B": "Trần nhôm, không đèn",
+        "C": "Trần thạch cao thường",
+        "D": "Trần bê tông sơn nước",
+        "answer": "A"
+    },
+    {
+        "project": "fiato",
+        "question": "Hệ thống điện trong căn hộ đến từ thương hiệu nào?",
+        "A": "Midea",
+        "B": "Schneider hoặc Panasonic",
+        "C": "Philips",
+        "D": "An Phước",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Cửa sổ ban công phòng khách sử dụng chất liệu nào?",
+        "A": "Nhôm Xingfa sơn tĩnh điện + kính cường lực",
+        "B": "Gỗ công nghiệp",
+        "C": "Kính dán",
+        "D": "Nhôm thường",
+        "answer": "A"
+    },
+    {
+        "project": "fiato",
+        "question": "Tủ bếp trên và dưới được làm từ chất liệu gì?",
+        "A": "Nhôm",
+        "B": "Gỗ An Cường",
+        "C": "Nhựa",
+        "D": "Sắt sơn",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Mặt bàn bếp sử dụng chất liệu gì?",
+        "A": "Đá nhân tạo",
+        "B": "Đá granite",
+        "C": "Gạch ceramic",
+        "D": "Thép không gỉ",
+        "answer": "A"
+    },
+    {
+        "project": "fiato",
+        "question": "Thiết bị vệ sinh trong nhà tắm thuộc thương hiệu nào?",
+        "A": "Inax",
+        "B": "TOTO",
+        "C": "Grohe",
+        "D": "Caesar",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Căn hộ Fiato được trang bị bồn cầu loại gì?",
+        "A": "Bồn cầu xổm",
+        "B": "Bồn cầu 1 khối",
+        "C": "Bồn cầu 2 khối",
+        "D": "Bồn cầu treo tường",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Phòng ngủ được lát bằng loại sàn gì?",
+        "A": "Sàn gỗ công nghiệp chống xước",
+        "B": "Sàn đá tự nhiên",
+        "C": "Sàn gỗ tự nhiên",
+        "D": "Sàn nhựa dán",
+        "answer": "A"
+    },
+    {
+        "project": "fiato",
+        "question": "Cửa phòng ngủ dùng chất liệu gì?",
+        "A": "Gỗ tự nhiên",
+        "B": "Gỗ công nghiệp An Cường",
+        "C": "Kính mờ",
+        "D": "Sắt sơn tĩnh điện",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Cửa sổ lớn phòng ngủ sử dụng kính gì?",
+        "A": "Kính thường",
+        "B": "Kính phản quang",
+        "C": "Kính cường lực khung nhôm Xingfa",
+        "D": "Kính lùa gỗ",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Trần phòng ngủ sử dụng trần gì?",
+        "A": "Trần nhôm",
+        "B": "Trần gỗ",
+        "C": "Trần thạch cao sơn nước",
+        "D": "Trần tre",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Tường căn hộ được sơn mấy lớp?",
+        "A": "1 lớp",
+        "B": "2 lớp",
+        "C": "3 lớp",
+        "D": "Không rõ",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Chậu rửa phòng bếp có đặc điểm gì?",
+        "A": "1 ngăn, vòi thường",
+        "B": "2 ngăn, vòi rửa nóng lạnh",
+        "C": "1 ngăn rộng, vòi rửa nóng lạnh",
+        "D": "Chỉ vòi lạnh",
+        "answer": "C"
+    },
+    {
+        "project": "fiato",
+        "question": "Kính bếp sử dụng loại gì?",
+        "A": "Kính màu cường lực",
+        "B": "Kính dán",
+        "C": "Kính thường",
+        "D": "Không có kính",
+        "answer": "A"
+    },
+    {
+        "project": "fiato",
+        "question": "Fiato trang bị hệ thống đèn LED gì?",
+        "A": "Đèn dây",
+        "B": "LED ẩn trần",
+        "C": "Đèn chùm",
+        "D": "Đèn compact",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Fiato sử dụng hệ thống báo cháy nào?",
+        "A": "Báo cháy thường",
+        "B": "Báo cháy nhiệt đầu phun nước kết nối trung tâm",
+        "C": "Báo khói rời",
+        "D": "Không có hệ thống",
+        "answer": "B"
+    },
+    {
+        "project": "fiato",
+        "question": "Cầu Nhơn Trạch thuộc dự án nào?",
+        "A": "Cao tốc Bắc – Nam",
+        "B": "Vành đai 3 TP.HCM",
+        "C": "Cầu Cát Lái",
+        "D": "Cầu Phước An",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Đến khi nào Cầu Nhơn Trạch dự kiến khai thác cuối tháng?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Chiều dài của cầu Nhơn Trạch là bao nhiêu kb?",
+        "A": "1,5 km",
+        "B": "2,6 km",
+        "C": "5 km",
+        "D": "8,2 km",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Nhơn Trạch kết nối Nhơn Trạch với khu vực nào của TP.HCM?",
+        "A": "Quận 9",
+        "B": "Quận 2",
+        "C": "TP.Thủ Đức",
+        "D": "Quận 7",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Cát Lái dự kiến có bao nhiêu làn xe?",
+        "A": "4 làn",
+        "B": "6 làn",
+        "C": "8 làn",
+        "D": "10 làn",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Phước An liên kết Nhơn Trạch với tỉnh nào?",
+        "A": "Long An",
+        "B": "Bà Rịa – Vũng Tàu",
+        "C": "Bình Dương",
         "D": "TP.HCM",
         "answer": "B"
-    }
+      },
+      {
+        "project": "fiato",
+        "question": "Tổng mức đầu tư của cầu Phước An là khoảng?",
+        "A": "4,900 tỷ đồng",
+        "B": "6,900 tỷ đồng",
+        "C": "10,500 tỷ đồng",
+        "D": "1,800 tỷ đồng",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Yếu tố nào giúp tăng kết nối giữa Nhơn Trạch và sân bay Long Thành?",
+        "A": "Cầu Cát Lái",
+        "B": "Đường 25B & 25C",
+        "C": "Vành đai 4",
+        "D": "Tuyến metro",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Đường 25B và 25C kết nối Nhơn Trạch với quốc lộ nào?",
+        "A": "QL51",
+        "B": "QL1A",
+        "C": "QL13",
+        "D": "QL50",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Đến năm nào Nhơn Trạch phấn đấu trở thành đô thị loại 3?",
+        "A": "2024",
+        "B": "2025",
+        "C": "2026",
+        "D": "2027",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Đường cao tốc Bến Lức–Long Thành dài khoảng?",
+        "A": "40 km",
+        "B": "57,8 km",
+        "C": "76 km",
+        "D": "100 km",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Dự án Vành đai 3 TP.HCM dài tổng cộng là?",
+        "A": "8,2 km",
+        "B": "24,1 km",
+        "C": "76,3 km",
+        "D": "100 km",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Nhơn Trạch thuộc giai đoạn nào của Vành đai 3?",
+        "A": "Thành phần 1A",
+        "B": "Thành phần 1B",
+        "C": "Thành phần 2A",
+        "D": "Thành phần 3",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "KCN Nhơn Trạch 1 có diện tích khoảng bao nhiêu ha?",
+        "A": "183 ha",
+        "B": "347 ha",
+        "C": "449 ha",
+        "D": "500 ha",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Tổng vốn FDI của Nhơn Trạch đạt khoảng bao nhiêu?",
+        "A": "11,2 tỷ USD",
+        "B": "6,9 tỷ USD",
+        "C": "4,9 tỷ USD",
+        "D": "2 tỷ USD",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Nhơn Trạch sẽ giúp giảm tải cho tuyến nào hiện hữu?",
+        "A": "QL51 và cao tốc TP.HCM – Long Thành – Dầu Giây",
+        "B": "QL13",
+        "C": "QL1A",
+        "D": "Cao tốc Hà Nội – Hải Phòng",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Đường 319 nối dài hoàn thành, kết nối với cao tốc nào?",
+        "A": "Cao tốc Bến Lức – Long Thành",
+        "B": "Cao tốc TP.HCM – Long Thành – Dầu Giây",
+        "C": "Cao tốc Bắc – Nam",
+        "D": "Cao tốc Long Thành – Dầu Giây",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Nút giao cao tốc – Vành đai 3 có thiết kế bao nhiêu nhánh rẽ?",
+        "A": "2 nhánh",
+        "B": "3 nhánh",
+        "C": "4 nhánh",
+        "D": "5 nhánh",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Cát Lái thay thế phương tiện giao thông nào hiện nay?",
+        "A": "Phà Cát Lái",
+        "B": "Cầu Phú Mỹ",
+        "C": "Cầu Đồng Nai 2",
+        "D": "Phà Bình Khánh",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Nhơn Trạch có bao nhiêu làn xe?",
+        "A": "4 làn",
+        "B": "6 làn",
+        "C": "8 làn",
+        "D": "10 làn",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Năm điều chỉnh quy hoạch chung Nhơn Trạch đến năm 2035 tầm nhìn 2050?",
+        "A": "2030",
+        "B": "2035",
+        "C": "2040",
+        "D": "2050",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Việc hoàn thành hạ tầng giúp Nhơn Trạch hướng đến đô thị loại nào vào 2030?",
+        "A": "Loại 3",
+        "B": "Loại 2",
+        "C": "Loại 1",
+        "D": "Đô thị đặc biệt",
+        "answer": "B"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Phước An có nhịp chính dài bao nhiêu mét?",
+        "A": "150 m",
+        "B": "200 m",
+        "C": "250 m",
+        "D": "300 m",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Cầu Cát Lái dài khoảng bao nhiêu km (cả đường dẫn & cầu)?",
+        "A": "10–11 km",
+        "B": "5–6 km",
+        "C": "3–4 km",
+        "D": "8–9 km",
+        "answer": "A"
+      },
+      {
+        "project": "fiato",
+        "question": "Đường 25B dự kiến hoàn thành vào tháng nào năm 2025?",
+        "A": "3",
+        "B": "5",
+        "C": "8",
+        "D": "12",
+        "answer": "C"
+      },
+      {
+        "project": "fiato",
+        "question": "Nhơn Trạch hiện có bao nhiêu khu công nghiệp cấp lớn?",
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8",
+        "answer": "B"
+      }
 ]
