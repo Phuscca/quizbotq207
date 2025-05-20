@@ -18,7 +18,8 @@ async def on_ready():
 
 @bot.command()
 async def quiz(ctx):
-    q = questions[0]
+    import random
+    q = random.choice(questions)
     await ctx.send(f"Câu hỏi: {q['question']}\nA. {q['A']}\nB. {q['B']}\nC. {q['C']}\nD. {q['D']}")
 
     def check(m):
