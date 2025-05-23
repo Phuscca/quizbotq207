@@ -421,5 +421,257 @@
         "C": "6",
         "D": "8",
         "answer": "B"
-      }
+      },
+    {
+    "project": "fiato",
+    "question": "Tổng số đợt thanh toán trong phương thức thanh toán chuẩn là bao nhiêu?",
+    "A": "31",
+    "B": "33",
+    "C": "35",
+    "D": "36",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ thanh toán khi ký Văn bản thỏa thuận là bao nhiêu?",
+    "A": "5%",
+    "B": "7%",
+    "C": "10%",
+    "D": "15%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Mức chiết khấu cao nhất khi chọn phương thức thanh toán nhanh là bao nhiêu phần trăm?",
+    "A": "6.5%",
+    "B": "10%",
+    "C": "11%",
+    "D": "12%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ vốn tự có của khách hàng khi vay ngân hàng là bao nhiêu?",
+    "A": "20%",
+    "B": "30%",
+    "C": "40%",
+    "D": "50%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Chính sách vay ngân hàng được hỗ trợ lãi suất trong tối đa bao lâu?",
+    "A": "12 tháng",
+    "B": "18 tháng",
+    "C": "24 tháng",
+    "D": "36 tháng",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Giá trị quy đổi 1 chỉ vàng ưu đãi giữ chỗ là bao nhiêu?",
+    "A": "10 triệu",
+    "B": "11 triệu",
+    "C": "12 triệu",
+    "D": "13 triệu",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng cần đặt cọc bao nhiêu tiền để tham gia ưu đãi giữ chỗ?",
+    "A": "20 triệu",
+    "B": "25 triệu",
+    "C": "30 triệu",
+    "D": "35 triệu",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng được quyền chọn vị trí đậu xe ô tô nếu hoàn tất đợt 1 trong bao lâu?",
+    "A": "5 ngày",
+    "B": "7 ngày",
+    "C": "10 ngày",
+    "D": "15 ngày",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ thanh toán khi nhận bàn giao sản phẩm là bao nhiêu?",
+    "A": "20%",
+    "B": "25%",
+    "C": "30%",
+    "D": "35%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ phí bảo trì khi nhận nhà là bao nhiêu?",
+    "A": "1%",
+    "B": "2%",
+    "C": "3%",
+    "D": "5%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Trong phương thức thanh toán chuẩn, tổng tỷ lệ thanh toán trước khi nhận nhà là bao nhiêu phần trăm?",
+    "A": "70%",
+    "B": "80%",
+    "C": "95%",
+    "D": "100%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ thanh toán cao nhất trong một đợt (trong phương thức thanh toán chuẩn) là bao nhiêu phần trăm?",
+    "A": "2%",
+    "B": "5%",
+    "C": "10%",
+    "D": "25%",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Đợt thanh toán nào có tỷ lệ là 10%?",
+    "A": "Đặt cọc",
+    "B": "Ký Văn bản Thỏa thuận",
+    "C": "Đợt 1",
+    "D": "Bàn giao nhà",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "PTTT nhanh 95% nhận được mức chiết khấu bao nhiêu?",
+    "A": "9%",
+    "B": "10%",
+    "C": "11%",
+    "D": "12%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Mức chiết khấu khi chọn PTTT nhanh 50% là bao nhiêu?",
+    "A": "5%",
+    "B": "6%",
+    "C": "6.5%",
+    "D": "7%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "PTTT nhanh 20% sẽ được chiết khấu bao nhiêu phần trăm?",
+    "A": "1%",
+    "B": "2%",
+    "C": "3%",
+    "D": "4%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Ngân hàng sẽ giải ngân bao nhiêu phần trăm theo phương thức vay ngân hàng?",
+    "A": "60%",
+    "B": "65%",
+    "C": "70%",
+    "D": "75%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Theo phương thức vay ngân hàng, khách hàng cần có tối thiểu bao nhiêu phần trăm vốn tự có?",
+    "A": "25%",
+    "B": "30%",
+    "C": "35%",
+    "D": "40%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Mức hỗ trợ lãi suất tối đa hàng năm là bao nhiêu?",
+    "A": "6%",
+    "B": "7%",
+    "C": "8%",
+    "D": "9%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Thời gian được hỗ trợ lãi suất tối đa là bao lâu?",
+    "A": "12 tháng",
+    "B": "18 tháng",
+    "C": "24 tháng",
+    "D": "36 tháng",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng phải đặt cọc bao nhiêu để tham gia chương trình ưu đãi giữ chỗ?",
+    "A": "20 triệu đồng",
+    "B": "25 triệu đồng",
+    "C": "30 triệu đồng",
+    "D": "35 triệu đồng",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Ưu đãi giữ chỗ là bao nhiêu chỉ vàng SJC?",
+    "A": "3 chỉ",
+    "B": "4 chỉ",
+    "C": "5 chỉ",
+    "D": "6 chỉ",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng phải hoàn tất đợt 1 trong bao nhiêu ngày để nhận quà giữ chỗ?",
+    "A": "3 ngày",
+    "B": "5 ngày",
+    "C": "7 ngày",
+    "D": "10 ngày",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Chính sách ưu tiên vị trí đậu xe ô tô áp dụng cho bao nhiêu vị trí đầu tiên?",
+    "A": "50",
+    "B": "75",
+    "C": "100",
+    "D": "120",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng phải hoàn tất đợt 1 trong bao lâu để được ưu tiên chọn vị trí đậu xe?",
+    "A": "5 ngày",
+    "B": "7 ngày",
+    "C": "10 ngày",
+    "D": "15 ngày",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Phí bảo trì được thu khi nào?",
+    "A": "Khi ký HĐMB",
+    "B": "Khi bàn giao sản phẩm",
+    "C": "Khi nhận giấy chứng nhận",
+    "D": "Ngay sau đợt 1",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Thuế VAT được tính trên giá trị nào?",
+    "A": "Giá trị vay ngân hàng",
+    "B": "Giá trị sản phẩm",
+    "C": "Giá trị hợp đồng cộng bảo trì",
+    "D": "Tổng giá trị thanh toán",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Thuế VAT được thanh toán tại đợt nào?",
+    "A": "Cùng lúc nhận sản phẩm",
+    "B": "Cùng lúc nhận giấy chứng nhận",
+    "C": "Trước bàn giao",
+    "D": "Trong đợt 1",
+    "answer": "B"
+  }
 ]
