@@ -1,0 +1,11 @@
+[
+  {
+    "project": "default",
+    "question": "What is the capital of France?",
+    "A": "Berlin",
+    "B": "Madrid",
+    "C": "Paris",
+    "D": "Rome",
+    "answer": "C"
+  }
+]
