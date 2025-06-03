@@ -11,7 +11,7 @@ import pytz
 from modules.quiz import setup_quiz_commands, handle_today_quiz
 from modules.encouragement import handle_encouragement_message, setup_encouragement_commands
 
-IMAGE_CHANNELS_FOR_ENCOURAGEMENT = [123456789012345678]  # Replace with actual channel IDs
+IMAGE_CHANNELS_FOR_ENCOURAGEMENT = [1372263906948546600,1372263291283570790]  # Replace with actual channel IDs
 USER_COOLDOWN = 1800
 BOT_COOLDOWN = 120
 TIMEZONE = "Asia/Ho_Chi_Minh"
