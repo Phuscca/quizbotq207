@@ -1,11 +1,1206 @@
 [
   {
-    "project": "default",
-    "question": "What is the capital of France?",
-    "A": "Berlin",
-    "B": "Madrid",
-    "C": "Paris",
-    "D": "Rome",
+    "project": "ttavio",
+    "question": "Tên đầy đủ của chủ đầu tư dự án TT AVIO là gì?",
+    "A": "Cosmos Initia",
+    "B": "TT Capital",
+    "C": "Koterasu Group",
+    "D": "TT Capital và Cosmos Initia",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO là liên doanh giữa TT Capital và hai đối tác Nhật nào?",
+    "A": "Cosmos Initia và Koterasu Group",
+    "B": "Daiwa House và Koterasu Group",
+    "C": "Cosmos Initia và Sumitomo Forestry",
+    "D": "Daiwa House và Cosmos Initia",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vị trí chính xác của dự án TT AVIO nằm ở đâu?",
+    "A": "Quốc lộ 13, Dĩ An",
+    "B": "Tỉnh lộ 743C, phường Tân Đông Hiệp, Dĩ An, Bình Dương",
+    "C": "Xa lộ Hà Nội, Dĩ An",
+    "D": "Mỹ Phước - Tân Vạn, Dĩ An",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tổng diện tích khu đất của TT AVIO là bao nhiêu?",
+    "A": "1,2 ha",
+    "B": "1,6 ha",
+    "C": "2,0 ha",
+    "D": "2,5 ha",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Quy mô tổng căn hộ của dự án TT AVIO khoảng:",
+    "A": "1.000 căn",
+    "B": "1.500 căn",
+    "C": "2.000 căn",
+    "D": "2.500 căn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Hiện trạng pháp lý của dự án TT AVIO được ghi nhận là:",
+    "A": "Đang xin phép 1/500",
+    "B": "Đã có quyết định 1/500 và phê duyệt đầu tư",
+    "C": "Chưa có pháp lý",
+    "D": "Đã hoàn thiện sổ hồng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Hình thức sở hữu cho người Việt Nam là:",
+    "A": "50 năm",
+    "B": "Sở hữu lâu dài",
+    "C": "20 năm",
+    "D": "Không xác định",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Người nước ngoài được sở hữu căn hộ TT AVIO trong bao lâu theo pháp lý hiện hành?",
+    "A": "Lâu dài",
+    "B": "30 năm",
+    "C": "50 năm",
+    "D": "70 năm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời điểm khởi công xây dựng TT AVIO là từ tháng nào năm 2024?",
+    "A": "Tháng 1",
+    "B": "Tháng 4",
+    "C": "Tháng 6",
+    "D": "Tháng 8",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dự kiến bàn giao dự án TT AVIO vào năm nào?",
+    "A": "2025",
+    "B": "2026",
+    "C": "2027",
+    "D": "2028",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO gồm bao nhiêu tầng nổi và tầng hầm?",
+    "A": "30 tầng nổi và 1 hầm",
+    "B": "30 tầng nổi và 2 hầm",
+    "C": "25 tầng nổi và 2 hầm",
+    "D": "35 tầng nổi và 2 hầm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dự án TT AVIO gồm bao nhiêu block/tòa chính?",
+    "A": "1 tòa",
+    "B": "2 tòa",
+    "C": "3 tòa",
+    "D": "4 tòa",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Các loại sản phẩm căn hộ tại TT AVIO có loại diện tích nào sau đây không?",
+    "A": "Studio 37–41 m²",
+    "B": "1 phòng ngủ + (52 m²)",
+    "C": "3 phòng ngủ – 2 WC (80–82 m²)",
+    "D": "Tất cả đều đúng",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Diện tích căn hộ Studio tại dự án TT AVIO dao động từ:",
+    "A": "30–35 m²",
+    "B": "37–42 m²",
+    "C": "45–50 m²",
+    "D": "50–55 m²",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ 2 phòng ngủ – 1 WC có diện tích khoảng:",
+    "A": "52–59 m²",
+    "B": "60–65 m²",
+    "C": "68–72 m²",
+    "D": "80–82 m²",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giá bán trung bình dự kiến của TT AVIO là:",
+    "A": "20–25 triệu/m²",
+    "B": "30–32 triệu/m²",
+    "C": "32–35 triệu/m²",
+    "D": "40–45 triệu/m²",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ TT AVIO được bàn giao theo hình thức:",
+    "A": "Thô",
+    "B": "Hoàn thiện nội thất",
+    "C": "Nội thất cơ bản",
+    "D": "Tùy chọn theo hợp đồng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thương hiệu nội thất sử dụng trong TT AVIO gồm:",
+    "A": "Hafele, Toto, Yale…",
+    "B": "IKEA, Bosch, Samsung…",
+    "C": "Xiaomi, Panasonic, Electrolux…",
+    "D": "LG, Miele, Grohe…",
+    "answer": "A"
+  },
+   {
+    "project": "ttavio",
+    "question": "Diện tích tổng thể khu đất TT AVIO là bao nhiêu mét vuông?",
+    "A": "1.2 ha",
+    "B": "1.6 ha (khoảng 15.952 m²)",
+    "C": "2.0 ha",
+    "D": "2.5 ha",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO gồm bao nhiêu block (tòa)?",
+    "A": "1 block",
+    "B": "2 block (Avis & Orion)",
+    "C": "3 block",
+    "D": "4 block",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dự án TT AVIO cao bao nhiêu tầng nổi?",
+    "A": "25 tầng",
+    "B": "28 tầng",
+    "C": "30 tầng",
+    "D": "35 tầng",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO có bao nhiêu tầng hầm?",
+    "A": "1 hầm",
+    "B": "2 hầm",
+    "C": "3 hầm",
+    "D": "Không có tầng hầm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tổng số căn hộ tại TT AVIO khoảng bao nhiêu?",
+    "A": "1.500 căn",
+    "B": "1.800 căn",
+    "C": "2.000 căn",
+    "D": "2.500 căn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Loại hình căn hộ nào KHÔNG có trong TT AVIO?",
+    "A": "1 phòng ngủ (Studio)",
+    "B": "2 phòng ngủ",
+    "C": "4 phòng ngủ",
+    "D": "3 phòng ngủ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mật độ xây dựng của dự án TT AVIO là bao nhiêu phần trăm?",
+    "A": "30%",
+    "B": "40%",
+    "C": "50%",
+    "D": "60%",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chủ đầu tư chính thức của TT AVIO là tổ chức nào?",
+    "A": "Cosmos Initia",
+    "B": "TT Capital",
+    "C": "Koterasu Group",
+    "D": "Liên doanh Cosmos Initia & TT Capital",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Các đối tác phát triển dự án ngoài TT Capital là:",
+    "A": "Cosmos Initia & Sumitomo",
+    "B": "Cosmos Initia & Koterasu Group",
+    "C": "Daiwa House & Koterasu",
+    "D": "Sumitomo và Daiwa House",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tổng thầu xây dựng TT AVIO là đơn vị nào?",
+    "A": "FLC Construction",
+    "B": "Hòa Bình",
+    "C": "Ricons",
+    "D": "Delta",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đơn vị quản lý vận hành TT AVIO là?",
+    "A": "Savills",
+    "B": "CBRE",
+    "C": "Anabuki NL Vietnam",
+    "D": "JLL",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO được quảng bá là dự án lấy cảm hứng từ hình ảnh gì?",
+    "A": "Cánh chim bay lên",
+    "B": "Dòng sông",
+    "C": "Bông hoa nở",
+    "D": "Ngọn núi",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Theo thông tin, TT AVIO hưởng lợi từ tuyến giao thông nào?",
+    "A": "Metro tuyến 1 (Bến Thành – Suối Tiên)",
+    "B": "Vành đai 2",
+    "C": "Cao tốc TP HCM – Thủ Dầu Một – Chơn Thành",
+    "D": "Tất cả các tuyến trên",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giá bán căn hộ tại TT AVIO dao động trong khoản nào?",
+    "A": "20–25 triệu/m²",
+    "B": "30–35 triệu/m²",
+    "C": "35–40 triệu/m²",
+    "D": "40–45 triệu/m²",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giá căn hộ 1 phòng ngủ tại TT AVIO từ khoảng bao nhiêu?",
+    "A": "1,0–1,1 tỷ",
+    "B": "1,11–1,29 tỷ",
+    "C": "1,3–1,5 tỷ",
+    "D": "1,5–1,7 tỷ",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giá bán căn hộ 2 phòng ngủ-2 WC (68–72 m²) là từ:",
+    "A": "1,5–1,8 tỷ",
+    "B": "1,8–2,0 tỷ",
+    "C": "2,04–2,52 tỷ",
+    "D": "2,6–3,0 tỷ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chính sách thanh toán chỉ từ 9 triệu/tháng được áp dụng trong bao lâu?",
+    "A": "1 năm",
+    "B": "18 tháng",
+    "C": "2 năm",
+    "D": "3 năm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hàng đóng trước bao nhiêu % giá trị căn hộ để ký hợp đồng?",
+    "A": "10%",
+    "B": "20%",
+    "C": "30%",
+    "D": "40%",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Liên doanh có các chính sách chiết khấu đặc biệt nếu mua từ 6 căn trở lên là:",
+    "A": "1%",
+    "B": "1,5%",
+    "C": "2%",
+    "D": "2,5%",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Các ngân hàng hỗ trợ vay lên đến 70% căn hộ TT AVIO, trừ ACB không bao gồm:",
+    "A": "Vietinbank",
+    "B": "Vietcombank",
+    "C": "Techcombank",
+    "D": "TPBank",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lãi suất vay ưu đãi từ các ngân hàng hỗ trợ TT AVIO vào khoảng:",
+    "A": "4–5%/năm",
+    "B": "6–6,7%/năm",
+    "C": "7–8%/năm",
+    "D": "8–9%/năm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thương hiệu nội thất được sử dụng tại TT AVIO gồm:",
+    "A": "Hafele, Toto, Yale, Panasonic…",
+    "B": "IKEA, Bosch, Samsung…",
+    "C": "LG, Miele, Grohe…",
+    "D": "Xiaomi, Electrolux, Hisense…",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại TT AVIO, tiện ích nội khu nào sau đây không có?",
+    "A": "Hồ bơi Galaxy Pool",
+    "B": "Sân tập Golf",
+    "C": "Gym & Yoga",
+    "D": "Co-working space",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tiện ích nội khu nào dành cho trẻ em tại TT AVIO?",
+    "A": "Funky Town",
+    "B": "Amazone Park",
+    "C": "Khu đọc sách",
+    "D": "Phòng hội nghị",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời gian khởi công xây dựng TT AVIO là vào quý nào năm 2024?",
+    "A": "Quý I",
+    "B": "Quý II",
+    "C": "Quý III",
+    "D": "Quý IV",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dự kiến giao nhà TT AVIO vào khoảng quý nào năm 2027?",
+    "A": "Quý I",
+    "B": "Quý II",
+    "C": "Quý III",
+    "D": "Quý IV",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO đã hoàn thành việc đổ bê tông móng tầng hầm B2 vào tháng nào năm 2025?",
+    "A": "Tháng 1",
+    "B": "Tháng 3",
+    "C": "Tháng 5",
+    "D": "Tháng 7",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Công suất đổ bê tông tầng hầm B2 đạt gần bao nhiêu mét khối chỉ trong 12 giờ?",
+    "A": "500 m³",
+    "B": "600 m³",
+    "C": "700 m³",
+    "D": "800 m³",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời hạn sở hữu căn hộ đối với người Việt Nam tại TT AVIO là:",
+    "A": "50 năm",
+    "B": "70 năm",
+    "C": "Lâu dài",
+    "D": "Chưa rõ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Người nước ngoài được sở hữu căn hộ TT AVIO trong bao lâu?",
+    "A": "30 năm",
+    "B": "50 năm",
+    "C": "70 năm",
+    "D": "Không được sở hữu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Pháp lý của dự án TT AVIO đã có giai đoạn nào?",
+    "A": "Đang xin phê duyệt 1/500",
+    "B": "Đã được phê duyệt 1/500 và cấp giấy phép xây dựng",
+    "C": "Đã hoàn thiện sổ hồng",
+    "D": "Chưa có bất kỳ pháp lý",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức thanh toán 9 triệu/tháng có áp dụng tính lãi suất với trường hợp trả dư không?",
+    "A": "Không áp dụng",
+    "B": "Áp dụng 5%/năm",
+    "C": "Áp dụng 10%/năm đối với khoản thanh toán dư",
+    "D": "Áp dụng 15%/năm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO nằm cạnh trung tâm thương mại nào của Dĩ An?",
+    "A": "AEON Mall",
+    "B": "Vincom Dĩ An",
+    "C": "Big C Dĩ An",
+    "D": "Lotte Mart",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "TT AVIO nằm cách trung tâm TP.HCM khoảng bao lâu di chuyển?",
+    "A": "15-20 phút",
+    "B": "20-25 phút",
+    "C": "30-35 phút",
+    "D": "35-40 phút",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố khiến TT AVIO được đánh giá có tiềm năng tăng giá là?",
+    "A": "Vị trí xa trung tâm",
+    "B": "Không có pháp lý",
+    "C": "Hạ tầng kết nối phát triển nhanh",
+    "D": "Giá bán quá cao",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Liên doanh Nhật Bản đầu tư vào TT AVIO có vốn khoảng bao nhiêu USD trong 5 năm ở Bình Dương?",
+    "A": "100 triệu USD",
+    "B": "150 triệu USD",
+    "C": "200 triệu USD",
+    "D": "250 triệu USD",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ số 28 thuộc block nào của dự án TT AVIO?",
+    "A": "Block A",
+    "B": "Block B",
+    "C": "Cả hai block",
+    "D": "Không thuộc block nào",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ số 28 thuộc layout thiết kế nào?",
+    "A": "B2a",
+    "B": "B3a",
+    "C": "B3c",
+    "D": "B1a",
+    "answer": "B3c"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ B3c là loại căn hộ gì?",
+    "A": "1 phòng ngủ",
+    "B": "1 phòng ngủ +1",
+    "C": "2 phòng ngủ (góc)",
+    "D": "3 phòng ngủ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Diện tích tim tường của căn hộ B3c là bao nhiêu?",
+    "A": "67.31 m²",
+    "B": "67.20 m²",
+    "C": "68.26 m²",
+    "D": "62.47 m²",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Diện tích thông thủy của căn hộ B3a là bao nhiêu?",
+    "A": "59.05 m²",
+    "B": "59.94 m²",
+    "C": "60.01 m²",
+    "D": "60.74 m²",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mặt bằng tầng điển hình tháp AVIS có bao nhiêu căn hộ mỗi tầng?",
+    "A": "34",
+    "B": "36",
+    "C": "38",
+    "D": "39",
+    "answer": "38"
+  },
+  {
+    "project": "ttavio",
+    "question": "Loại căn hộ A2a - A2b có bao nhiêu phòng ngủ?",
+    "A": "Studio",
+    "B": "1 phòng ngủ +1",
+    "C": "2 phòng ngủ",
+    "D": "3 phòng ngủ",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ B3b có diện tích thông thủy là bao nhiêu?",
+    "A": "59.05 m²",
+    "B": "59.94 m²",
+    "C": "60.01 m²",
+    "D": "60.74 m²",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ B2a có hướng nhìn chính về phía nào trong mặt bằng?",
+    "A": "Hồ bơi",
+    "B": "Công viên nội khu",
+    "C": "Đường nội bộ",
+    "D": "Nhà xe",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ số 22 thuộc layout nào sau đây?",
+    "A": "B3a",
+    "B": "B3c",
+    "C": "A2b",
+    "D": "B2a",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ B1a – B1b có tổng diện tích tim tường là:",
+    "A": "67.31 m²",
+    "B": "62.47 m²",
+    "C": "60.01 m²",
+    "D": "56.25 m²",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Màu cam trong sơ đồ mặt bằng tầng tháp AVIS thể hiện loại căn hộ nào?",
+    "A": "1 phòng ngủ +1",
+    "B": "2 phòng ngủ (góc)",
+    "C": "2 phòng ngủ thường",
+    "D": "Studio",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ số 36 thuộc layout nào?",
+    "A": "A2b",
+    "B": "B1a",
+    "C": "B3a",
+    "D": "B3c",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Block AVIS có bao nhiêu căn góc mỗi tầng?",
+    "A": "4 căn",
+    "B": "6 căn",
+    "C": "2 căn",
+    "D": "Không xác định",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khu vực hồ bơi trong tiện ích nội khu thuộc hướng nào của dự án?",
+    "A": "Đông Nam",
+    "B": "Tây Bắc",
+    "C": "Đông Bắc",
+    "D": "Tây Nam",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vật liệu sàn phòng khách và khu vực bếp tại TT AVIO là gì?",
+    "A": "Sàn gỗ tự nhiên",
+    "B": "Sàn SPC",
+    "C": "Gạch porcelain",
+    "D": "Gạch ceramic",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thương hiệu gạch lát sàn chủ yếu được sử dụng trong bàn giao TT AVIO là?",
+    "A": "Prime",
+    "B": "Viglacera",
+    "C": "Taicera",
+    "D": "Đồng Tâm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tường phòng ngủ tại TT AVIO được trang trí bằng loại vật liệu nào?",
+    "A": "Sơn 3 lớp",
+    "B": "Ván MDF chống ẩm/PVC/SPC",
+    "C": "Gạch kính",
+    "D": "Ốp đá tự nhiên",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trần phòng khách sử dụng vật liệu gì?",
+    "A": "Thạch cao sơn nước",
+    "B": "Trần nhôm",
+    "C": "Trần bê tông sơn nước",
+    "D": "Gỗ nhân tạo",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cửa chính căn hộ được làm từ vật liệu gì?",
+    "A": "Gỗ tự nhiên",
+    "B": "HGF ván gỗ chống cháy",
+    "C": "Nhôm kính",
+    "D": "WPC laminate",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khóa cửa chính tại TT AVIO có bao nhiêu chức năng?",
+    "A": "1 chức năng (chìa)",
+    "B": "2 chức năng (mã số, vân tay)",
+    "C": "3 chức năng (mã, thẻ, chìa)",
+    "D": "4 chức năng (thẻ, mã, chìa, vân tay)",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Bếp được bàn giao với loại bếp gì?",
+    "A": "Bếp gas đôi",
+    "B": "Bếp từ 2 vùng nấu",
+    "C": "Bếp từ 3 vùng nấu",
+    "D": "Bếp điện kết hợp gas",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mặt bếp tại căn hộ TT AVIO được sử dụng loại vật liệu nào?",
+    "A": "Đá marble tự nhiên",
+    "B": "Đá granite / đá nhân tạo",
+    "C": "Gạch ceramic",
+    "D": "Gỗ công nghiệp chống nước",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tường bếp được ốp bằng loại vật liệu nào?",
+    "A": "Gạch ốp bếp",
+    "B": "Kính cường lực màu",
+    "C": "Đá hoa cương",
+    "D": "Sơn chống thấm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thiết bị vệ sinh như chậu rửa, vòi sen thuộc thương hiệu nào?",
+    "A": "TOTO",
+    "B": "INAX",
+    "C": "GROHE / HAFELE hoặc tương đương",
+    "D": "CAESAR",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vách kính phòng tắm đứng tại TT AVIO được làm từ?",
+    "A": "Nhựa mica",
+    "B": "Gỗ kính",
+    "C": "Kính cường lực",
+    "D": "Gạch kính",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thiết bị điện sử dụng cho công tắc và ổ cắm thuộc thương hiệu nào?",
+    "A": "Schneider",
+    "B": "Panasonic / Hager hoặc tương đương",
+    "C": "MPE",
+    "D": "Sino",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thiết bị chiếu sáng sử dụng loại gì?",
+    "A": "Bóng compact",
+    "B": "Đèn huỳnh quang",
+    "C": "Đèn led chiếu sáng cơ bản",
+    "D": "Đèn rọi",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Máy hút mùi bàn giao từ thương hiệu nào?",
+    "A": "Teka",
+    "B": "Electrolux",
+    "C": "HAFELE / MALLOCA hoặc tương đương",
+    "D": "Bosch",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thang máy tại dự án TT AVIO có thể đến từ thương hiệu nào?",
+    "A": "Mitsubishi",
+    "B": "Toshiba / KONE hoặc tương đương",
+    "C": "Otis",
+    "D": "Hitachi",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City nằm tại địa phương nào?",
+    "A": "TP. Thủ Đức",
+    "B": "Huyện Nhơn Trạch, tỉnh Đồng Nai",
+    "C": "Huyện Long Thành, tỉnh Đồng Nai",
+    "D": "TP. Biên Hòa",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Chủ đầu tư của Fiato Airport City là ai?",
+    "A": "Nam Long Group",
+    "B": "Thăng Long Real Group",
+    "C": "Phú Mỹ Hưng",
+    "D": "Hưng Thịnh Land",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Tên hai block chính trong dự án Fiato Airport City là gì?",
+    "A": "Sunrise & Sunset",
+    "B": "Galaxy & Fiesta",
+    "C": "Harmony & Melody",
+    "D": "Alpha & Omega",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Dự án Fiato Airport City thuộc khu đô thị nào?",
+    "A": "Vinhomes Grand Park",
+    "B": "Khu đô thị Thăng Long Home – Hiệp Phước",
+    "C": "Khu đô thị Sala",
+    "D": "EcoPark Long Thành",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Tổng diện tích dự án Fiato Airport City là bao nhiêu?",
+    "A": "9.8 ha",
+    "B": "7.5 ha",
+    "C": "10.2 ha",
+    "D": "11.5 ha",
+    "answer": "A"
+  },
+  {
+    "project": "fiato",
+    "question": "Dự án nằm gần tuyến metro nào trong tương lai?",
+    "A": "Metro Bến Thành – Suối Tiên",
+    "B": "Metro số 2",
+    "C": "Metro Thủ Thiêm – Long Thành",
+    "D": "Metro Tân Sơn Nhất – Long An",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khoảng cách từ Fiato Airport City đến sân bay quốc tế Long Thành là?",
+    "A": "Dưới 5 phút",
+    "B": "Khoảng 10 phút",
+    "C": "Trên 20 phút",
+    "D": "Khoảng 30 phút",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Điểm nổi bật giúp Fiato Airport City thu hút nhà đầu tư là gì?",
+    "A": "Giá rẻ",
+    "B": "Hạ tầng kết nối vùng mạnh mẽ",
+    "C": "Căn hộ mini",
+    "D": "Bàn giao thô",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Số lượng block căn hộ trong giai đoạn đầu của Fiato Airport City là bao nhiêu?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Đơn vị phát triển dự án Fiato Airport City là ai?",
+    "A": "Vingroup",
+    "B": "TTC Land",
+    "C": "Thăng Long Real Group",
+    "D": "Sun Group",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City đã được cấp phép xây dựng vào thời điểm nào?",
+    "A": "Quý I/2022",
+    "B": "Tháng 11/2023",
+    "C": "Tháng 5/2024",
+    "D": "Chưa được cấp phép",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Loại hình sở hữu của căn hộ Fiato Airport City đối với người Việt Nam là gì?",
+    "A": "Sở hữu 50 năm",
+    "B": "Sở hữu 70 năm",
+    "C": "Sở hữu lâu dài",
+    "D": "Sở hữu theo chu kỳ kinh doanh",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Thời hạn sở hữu căn hộ Fiato Airport City dành cho người nước ngoài là bao lâu?",
+    "A": "Lâu dài",
+    "B": "Tối đa 70 năm",
+    "C": "Tối đa 50 năm",
+    "D": "Theo quy định tỉnh Đồng Nai",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City được phép bán hàng hình thành trong tương lai theo văn bản nào?",
+    "A": "Chấp thuận đầu tư",
+    "B": "Giấy phép kinh doanh",
+    "C": "Thông báo đủ điều kiện bán nhà ở hình thành trong tương lai",
+    "D": "Văn bản xác nhận PCCC",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Dự án Fiato Airport City thuộc quy hoạch chi tiết tỷ lệ bao nhiêu?",
+    "A": "1/2000",
+    "B": "1/1000",
+    "C": "1/500",
+    "D": "1/250",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Thời gian bàn giao dự kiến của Fiato Airport City là khi nào?",
+    "A": "Quý I/2024",
+    "B": "Quý IV/2024",
+    "C": "Quý II/2025",
+    "D": "Quý II/2026",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Văn bản nào cho phép chủ đầu tư triển khai xây dựng dự án Fiato Airport City?",
+    "A": "Giấy chứng nhận đầu tư",
+    "B": "Giấy phép xây dựng của Sở Xây dựng Đồng Nai",
+    "C": "Chấp thuận quy hoạch 1/500",
+    "D": "Cam kết bảo lãnh ngân hàng",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Thời gian thi công dự kiến để hoàn thiện dự án là bao lâu?",
+    "A": "18 tháng",
+    "B": "24 tháng",
+    "C": "36 tháng",
+    "D": "48 tháng",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Dự án đã hoàn thiện đến tầng bao nhiêu vào tháng 5/2025?",
+    "A": "Tầng 5",
+    "B": "Tầng 7",
+    "C": "Tầng 9",
+    "D": "Tầng 11",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Số lượng căn hộ được phép bán theo hình thức hình thành trong tương lai là bao nhiêu?",
+    "A": "393 căn",
+    "B": "512 căn",
+    "C": "420 căn",
+    "D": "786 căn",
+    "answer": "A"
+  },
+  {
+    "project": "fiato",
+    "question": "Căn hộ 1 phòng ngủ tại Fiato Airport City có diện tích khoảng bao nhiêu?",
+    "A": "45–50 m²",
+    "B": "50–55 m²",
+    "C": "55–60 m²",
+    "D": "60–65 m²",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Căn hộ 2 phòng ngủ tại Fiato Airport City có diện tích khoảng bao nhiêu?",
+    "A": "60–70 m²",
+    "B": "70–85 m²",
+    "C": "74–94 m²",
+    "D": "85–100 m²",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Căn hộ 3 phòng ngủ tại Fiato Airport City có diện tích khoảng bao nhiêu?",
+    "A": "85–95 m²",
+    "B": "95–105 m²",
+    "C": "100–115 m²",
+    "D": "109–118 m²",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City có bao nhiêu căn Sky Villa trong giai đoạn đầu?",
+    "A": "4 căn",
+    "B": "6 căn",
+    "C": "8 căn",
+    "D": "10 căn",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Tổng số căn Penthouse trong Fiato Airport City là bao nhiêu?",
+    "A": "4 căn",
+    "B": "6 căn",
+    "C": "8 căn",
+    "D": "12 căn",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City có bao nhiêu căn Shophouse trong giai đoạn đầu?",
+    "A": "10 căn",
+    "B": "12 căn",
+    "C": "14 căn",
+    "D": "16 căn",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Block Galaxy và Fiesta của dự án có tổng cộng bao nhiêu tầng nổi?",
+    "A": "15 tầng",
+    "B": "16 tầng",
+    "C": "18 tầng",
+    "D": "20 tầng",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Mỗi block căn hộ tại Fiato Airport City có bao nhiêu tầng hầm?",
+    "A": "Không có tầng hầm",
+    "B": "1 tầng hầm",
+    "C": "2 tầng hầm",
+    "D": "3 tầng hầm",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Hướng ban công của các căn hộ từ số 01 đến 10 là hướng nào?",
+    "A": "Đông Nam",
+    "B": "Tây Bắc",
+    "C": "Tây Nam",
+    "D": "Đông Bắc",
+    "answer": "A"
+  },
+  {
+    "project": "fiato",
+    "question": "Căn số 22 của Fiato Airport City có hướng ban công gì?",
+    "A": "Tây Bắc",
+    "B": "Đông Bắc",
+    "C": "Đông Nam",
+    "D": "Tây Nam",
+    "answer": "B"
+  },
+  "project": "fiato",
+    "question": "Fiato Airport City có bao nhiêu tiện ích nội khu nổi bật?",
+    "A": "5 tiện ích",
+    "B": "10 tiện ích",
+    "C": "15 tiện ích",
+    "D": "Trên 20 tiện ích",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Công viên trung tâm nội khu của dự án có diện tích bao nhiêu?",
+    "A": "2.000 m²",
+    "B": "3.500 m²",
+    "C": "5.000 m²",
+    "D": "6.800 m²",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Hồ bơi tại Fiato Airport City được thiết kế theo phong cách nào?",
+    "A": "Hồ bơi vô cực",
+    "B": "Hồ bơi tràn viền phong cách nghỉ dưỡng",
+    "C": "Hồ bơi chân mây",
+    "D": "Hồ bơi tầng hầm",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City có khu vực BBQ ngoài trời không?",
+    "A": "Không có",
+    "B": "Có, nằm trong khối thương mại",
+    "C": "Có, bố trí tại tầng mái",
+    "D": "Có, bố trí xen kẽ công viên nội khu",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Thiết bị vệ sinh được sử dụng tại dự án thuộc thương hiệu nào?",
+    "A": "Inax",
+    "B": "TOTO",
+    "C": "Grohe",
+    "D": "Caesar",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Thiết bị bếp bàn giao của dự án thuộc thương hiệu nào?",
+    "A": "Panasonic",
+    "B": "Bosch",
+    "C": "Mallorca",
+    "D": "Teka",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Cửa chính căn hộ được trang bị loại khoá nào?",
+    "A": "Khoá cơ 1 điểm",
+    "B": "Khoá cơ 3 điểm",
+    "C": "Khoá từ Hafele 3 tính năng",
+    "D": "Khoá vân tay Xiaomi",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Trần nhà căn hộ sử dụng vật liệu gì?",
+    "A": "Thạch cao",
+    "B": "Tấm xi măng",
+    "C": "Nhôm sơn tĩnh điện",
+    "D": "Gỗ công nghiệp",
+    "answer": "A"
+  },
+  {
+    "project": "fiato",
+    "question": "Phòng ngủ được lát sàn bằng loại vật liệu nào?",
+    "A": "Gạch men",
+    "B": "Thảm nỉ",
+    "C": "Sàn gỗ công nghiệp chống xước",
+    "D": "Sàn đá marble",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City có không gian dành cho thư viện hoặc học tập không?",
+    "A": "Không có",
+    "B": "Có, bố trí tại tầng trệt",
+    "C": "Có, kết hợp trong khu nhà sinh hoạt cộng đồng",
+    "D": "Có, ở mỗi tầng căn hộ",
+    "answer": "C"
+  },
+  "project": "fiato",
+    "question": "Phương thức thanh toán chuẩn của Fiato Airport City chia thành bao nhiêu đợt?",
+    "A": "10 đợt",
+    "B": "15 đợt",
+    "C": "17 đợt",
+    "D": "20 đợt",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Khách hàng thanh toán 30% nhanh sẽ nhận được chiết khấu bao nhiêu?",
+    "A": "1.5%",
+    "B": "2.5%",
+    "C": "3.5%",
+    "D": "4.5%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Chính sách chiết khấu cao nhất được áp dụng cho phương thức thanh toán nào?",
+    "A": "Thanh toán theo tiến độ",
+    "B": "Thanh toán nhanh 30%",
+    "C": "Thanh toán nhanh 50%",
+    "D": "Thanh toán nhanh 95%",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Mức chiết khấu khi khách chọn thanh toán nhanh 95% là bao nhiêu?",
+    "A": "9.5%",
+    "B": "10.5%",
+    "C": "11%",
+    "D": "12%",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Fiato Airport City tặng bao nhiêu chỉ vàng cho mỗi căn hộ?",
+    "A": "03 chỉ",
+    "B": "04 chỉ",
+    "C": "05 chỉ",
+    "D": "06 chỉ",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Giá quy đổi 1 chỉ vàng trong chương trình ưu đãi là bao nhiêu?",
+    "A": "10.000.000 VNĐ",
+    "B": "10.500.000 VNĐ",
+    "C": "11.000.000 VNĐ",
+    "D": "11.500.000 VNĐ",
+    "answer": "C"
+  },
+  {
+    "project": "fiato",
+    "question": "Gói vay từ Vietcombank áp dụng lãi suất ưu đãi bao lâu?",
+    "A": "12 tháng",
+    "B": "18 tháng",
+    "C": "24 tháng",
+    "D": "36 tháng",
+    "answer": "D"
+  },
+  {
+    "project": "fiato",
+    "question": "Lãi suất cố định 12 tháng đầu trong gói vay Vietcombank là bao nhiêu?",
+    "A": "5.2%",
+    "B": "5.5%",
+    "C": "6.0%",
+    "D": "6.5%",
+    "answer": "A"
+  },
+  {
+    "project": "fiato",
+    "question": "Tỷ lệ vay tối đa khi thế chấp chính căn hộ mua là bao nhiêu?",
+    "A": "60%",
+    "B": "70%",
+    "C": "80%",
+    "D": "100%",
+    "answer": "B"
+  },
+  {
+    "project": "fiato",
+    "question": "Thời gian vay tối đa tại ngân hàng đối tác là bao lâu?",
+    "A": "20 năm",
+    "B": "25 năm",
+    "C": "30 năm",
+    "D": "35 năm",
     "answer": "C"
   }
 ]
