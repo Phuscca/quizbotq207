@@ -91,9 +91,18 @@
   },
   {
     "project": "ttavio",
-    "question": "TT AVIO gồm bao nhiêu tầng nổi và tầng hầm?",
+    "question": "TT AVIO Block Avis gồm bao nhiêu tầng nổi và tầng hầm?",
     "A": "30 tầng nổi và 1 hầm",
     "B": "30 tầng nổi và 2 hầm",
+    "C": "25 tầng nổi và 2 hầm",
+    "D": "35 tầng nổi và 2 hầm",
+    "answer": "B"
+  },
+   {
+    "project": "ttavio",
+    "question": "TT AVIO Block Orion gồm bao nhiêu tầng nổi và tầng hầm?",
+    "A": "30 tầng nổi và 1 hầm",
+    "B": "37 tầng nổi và 2 hầm",
     "C": "25 tầng nổi và 2 hầm",
     "D": "35 tầng nổi và 2 hầm",
     "answer": "B"
@@ -105,7 +114,7 @@
     "B": "2 tòa",
     "C": "3 tòa",
     "D": "4 tòa",
-    "answer": "C"
+    "answer": "B"
   },
   {
     "project": "ttavio",
@@ -139,7 +148,7 @@
     "question": "Giá bán trung bình dự kiến của TT AVIO là:",
     "A": "20–25 triệu/m²",
     "B": "30–32 triệu/m²",
-    "C": "32–35 triệu/m²",
+    "C": "34–36 triệu/m²",
     "D": "40–45 triệu/m²",
     "answer": "C"
   },
@@ -150,7 +159,7 @@
     "B": "Hoàn thiện nội thất",
     "C": "Nội thất cơ bản",
     "D": "Tùy chọn theo hợp đồng",
-    "answer": "B"
+    "answer": "C"
   },
   {
     "project": "ttavio",
@@ -181,7 +190,7 @@
   },
   {
     "project": "ttavio",
-    "question": "Dự án TT AVIO cao bao nhiêu tầng nổi?",
+    "question": "Dự án TT AVIO block Avis cao bao nhiêu tầng nổi?",
     "A": "25 tầng",
     "B": "28 tầng",
     "C": "30 tầng",
@@ -230,19 +239,10 @@
     "A": "Cosmos Initia",
     "B": "TT Capital",
     "C": "Koterasu Group",
-    "D": "Liên doanh Cosmos Initia & TT Capital",
-    "answer": "B"
+    "D": "Liên doanh Cosmos Initia & TT Capital & Koterasu Group",
+    "answer": "D"
   },
-  {
-    "project": "ttavio",
-    "question": "Các đối tác phát triển dự án ngoài TT Capital là:",
-    "A": "Cosmos Initia & Sumitomo",
-    "B": "Cosmos Initia & Koterasu Group",
-    "C": "Daiwa House & Koterasu",
-    "D": "Sumitomo và Daiwa House",
-    "answer": "B"
-  },
-  {
+   {
     "project": "ttavio",
     "question": "Tổng thầu xây dựng TT AVIO là đơn vị nào?",
     "A": "FLC Construction",
@@ -282,7 +282,7 @@
     "project": "ttavio",
     "question": "Giá bán căn hộ tại TT AVIO dao động trong khoản nào?",
     "A": "20–25 triệu/m²",
-    "B": "30–35 triệu/m²",
+    "B": "34–36 triệu/m²",
     "C": "35–40 triệu/m²",
     "D": "40–45 triệu/m²",
     "answer": "B"
@@ -294,14 +294,14 @@
     "B": "1,11–1,29 tỷ",
     "C": "1,3–1,5 tỷ",
     "D": "1,5–1,7 tỷ",
-    "answer": "B"
+    "answer": "C"
   },
   {
     "project": "ttavio",
-    "question": "Giá bán căn hộ 2 phòng ngủ-2 WC (68–72 m²) là từ:",
+    "question": "Giá bán căn hộ 2 phòng ngủ-2 WC (62–68 m²) là từ:",
     "A": "1,5–1,8 tỷ",
     "B": "1,8–2,0 tỷ",
-    "C": "2,04–2,52 tỷ",
+    "C": "2,4–2,6 tỷ",
     "D": "2,6–3,0 tỷ",
     "answer": "C"
   },
@@ -311,8 +311,8 @@
     "A": "1 năm",
     "B": "18 tháng",
     "C": "2 năm",
-    "D": "3 năm",
-    "answer": "C"
+    "D": "5 năm",
+    "answer": "D"
   },
   {
     "project": "ttavio",
@@ -345,7 +345,7 @@
     "project": "ttavio",
     "question": "Lãi suất vay ưu đãi từ các ngân hàng hỗ trợ TT AVIO vào khoảng:",
     "A": "4–5%/năm",
-    "B": "6–6,7%/năm",
+    "B": "6–8,7%/năm",
     "C": "7–8%/năm",
     "D": "8–9%/năm",
     "answer": "B"
@@ -437,8 +437,8 @@
     "A": "Đang xin phê duyệt 1/500",
     "B": "Đã được phê duyệt 1/500 và cấp giấy phép xây dựng",
     "C": "Đã hoàn thiện sổ hồng",
-    "D": "Chưa có bất kỳ pháp lý",
-    "answer": "B"
+    "D": "Pháp lý hoàn chỉnh: Sổ, 1/500, GPXD, CTDT",
+    "answer": "D"
   },
   {
     "project": "ttavio",
@@ -465,7 +465,7 @@
     "B": "20-25 phút",
     "C": "30-35 phút",
     "D": "35-40 phút",
-    "answer": "B"
+    "answer": "C"
   },
   {
     "project": "ttavio",
