@@ -26,7 +26,7 @@ async def handle_encouragement_message(bot, message, image_channels, user_cd, bo
 
     if bot.encouragement_messages:
         msg = random.choice(bot.encouragement_messages)
-        await message.channel.send(f"{message.author.mention} {msg}", file=discord.File("data/thumbs_up.png"))
+        await message.channel.send(f"{message.author.mention} {msg}")
         bot.channel_cooldowns[cid] = now
         if cid not in bot.user_cooldowns:
             bot.user_cooldowns[cid] = {}
