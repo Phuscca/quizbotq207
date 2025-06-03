@@ -6,7 +6,7 @@ import discord
 async def handle_encouragement_message(bot, message, image_channels, user_cd, bot_cd):
     print(f"DEBUG: Message received in channel: {message.channel.id}")
     print(f"DEBUG: Channel ID in config: {image_channels}")
-
+    
     if message.channel.id not in image_channels:
         print(f"DEBUG: Channel {message.channel.id} is NOT an image channel. Returning.")
         return
@@ -23,7 +23,7 @@ async def handle_encouragement_message(bot, message, image_channels, user_cd, bo
         if att.content_type and att.content_type.startswith("image/"):
             is_image = True
             break
-
+    
     if not is_image:
         print("DEBUG: No image attachments found. Returning.")
         return
@@ -60,11 +60,11 @@ async def handle_encouragement_message(bot, message, image_channels, user_cd, bo
     # --- Nếu không bị cooldown và đủ điều kiện, gửi tin nhắn khuyến khích ---
     if bot.encouragement_messages:
         msg = random.choice(bot.encouragement_messages)
-
+        
         try:
             await message.channel.send(f"{message.author.mention} {msg}")
             print(f"DEBUG: Successfully sent encouragement message to {message.author} in channel {cid}.")
-
+            
             bot.channel_cooldowns[cid] = now
             if cid not in bot.user_cooldowns:
                 bot.user_cooldowns[cid] = {}
@@ -80,6 +80,21 @@ async def handle_encouragement_message(bot, message, image_channels, user_cd, bo
             print(f"ERROR: An unexpected error occurred while sending encouragement: {e}")
     else:
         print("DEBUG: bot.encouragement_messages is empty. Not sending message.")
-
+    
+# Đây là phần code của hàm setup_encouragement_commands
 def setup_encouragement_commands(bot):
-    # ... (giữ nguyên phần này) ...
+    @bot.tree.command(name="post_leaderboard", description="Top users who posted the most screenshots")
+    async def post_leaderboard(interaction: discord.Interaction):
+        if not bot.post_counts:
+            await interaction.response.send_message("Chưa có dữ liệu.")
+            return
+        top = sorted(bot.post_counts.items(), key=lambda x: x[1], reverse=True)[:5]
+        msg = []
+        for i, (uid, count) in enumerate(top):
+            try:
+                user = bot.get_user(int(uid))
+                user_name = user.display_name if user else f"<@{uid}>"
+            except ValueError:
+                user_name = f"Người dùng không hợp lệ (<@{uid}>)"
+            msg.append(f"{i+1}. {user_name}: {count} ảnh")
+        await interaction.response.send_message(f"📸 **Top 5 người đăng ảnh nhiều nhất**:\n" + "\n".join(msg))
