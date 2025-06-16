@@ -501,7 +501,7 @@
     "B": "B3a",
     "C": "B3c",
     "D": "B1a",
-    "answer": "B3c"
+    "answer": "C"
   },
   {
     "project": "ttavio",
@@ -1824,6 +1824,1086 @@
     "B": "Dự án đang kéo dài chính thức kết nối đến TP mới Bình Dương; đây là chuỗi hạ tầng liền mạch giúp TT AVIO tăng giá trị",
     "C": "Chưa có kế hoạch.",
     "D": "Chưa nghe.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Giá căn hộ đã bao gồm VAT và phí bảo trì chưa?” – bạn trả lời sao?",
+    "A": "Dạ chưa, VAT tính sau.",
+    "B": "Dạ, giá niêm yết em báo đã bao gồm VAT. Phí bảo trì 2% theo quy định sẽ tính riêng trong hợp đồng và thanh toán khi nhận nhà.",
+    "C": "Có hết rồi, không cần lo.",
+    "D": "Bên em miễn phí bảo trì.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh/chị chưa đủ tiền 30% để đặt cọc. Có hỗ trợ gì không?” – bạn nên nói gì?",
+    "A": "Không đủ thì đợi sau.",
+    "B": "Dạ, bên em có nhiều chính sách thanh toán rất linh hoạt, chỉ cần thanh toán 10-20%, phần còn lại có thể theo tiến độ hoặc hỗ trợ vay ngân hàng.",
+    "C": "Em sẽ giữ căn vài tháng cho mình.",
+    "D": "Phải đủ 30% mới đặt cọc.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Có được vay ngân hàng không?” – bạn phản hồi sao?",
+    "A": "Tùy ngân hàng.",
+    "B": "Dạ, TT AVIO được liên kết nhiều ngân hàng lớn. Mình có thể vay tối đa 70% giá trị căn hộ, thời hạn đến 20-25 năm, lãi suất ưu đãi.",
+    "C": "Không nên vay đâu.",
+    "D": "Vay hay không là chuyện riêng.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách lo lắng về khả năng trả góp – bạn nên hỗ trợ thế nào?",
+    "A": "Khó thì khỏi mua.",
+    "B": "Dạ, em có thể mô phỏng bảng vay ngân hàng cho mình, với số tiền góp mỗi tháng phù hợp thu nhập và kế hoạch tài chính của anh/chị.",
+    "C": "Chuyện đó tự tính nhé.",
+    "D": "Vay là rủi ro.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Chiết khấu bao nhiêu?” – bạn nên trả lời thế nào để vừa minh bạch vừa khéo léo?",
+    "A": "Chiết khấu ít lắm.",
+    "B": "Dạ, bên em có chính sách chiết khấu tốt cho khách thanh toán nhanh. Em có thể gửi bảng chi tiết để mình so sánh.",
+    "C": "Để sếp em quyết.",
+    "D": "Căn nào cũng như nhau.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh/chị muốn mua đầu tư, có chính sách gì không?” – bạn nên phản hồi ra sao?",
+    "A": "Dạ, nhà nào cũng bán vậy thôi.",
+    "B": "Dạ, nếu anh/chị đầu tư, bên em có chính sách thanh toán giãn tiến độ + Giá dự án này hiện tại tốt top đầu khu vực, đầu tư sinh lời rõ ràng. Em gửi mã và tư vấn căn phù hợp cho mình nhé.",
+    "C": "Đầu tư thì tự tính lời.",
+    "D": "Em không rõ ạ.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Nếu trễ tiến độ, bên em có cam kết gì không?” – bạn nên nói gì?",
+    "A": "Không trễ đâu.",
+    "B": "Dạ, trong hợp đồng có điều khoản ràng buộc tiến độ bàn giao và trách nhiệm của chủ đầu tư. Nếu trễ, sẽ có chính sách bồi thường theo luật.",
+    "C": "Dự án nào chả vậy.",
+    "D": "Có trễ cũng chịu thôi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Giờ lãi suất cao quá, anh/chị ngại vay.” – bạn nên nói gì để giảm bớt lo lắng?",
+    "A": "Vậy thì đừng vay.",
+    "B": "Dạ, bên em có liên kết ngân hàng hỗ trợ lãi suất ưu đãi giai đoạn đầu, hoặc chọn phương án thanh toán chậm theo tiến độ không cần vay.",
+    "C": "Lãi thì phải chịu thôi.",
+    "D": "Em không rành lãi suất.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Thanh toán thế nào đến khi nhận nhà?” – bạn nên trình bày thế nào?",
+    "A": "Đóng hết 1 lần.",
+    "B": "Dạ, tiến độ chia thành nhiều đợt nhỏ theo tiến trình xây dựng: đặt cọc – ký HĐ – đóng tiếp theo từng giai đoạn – nhận nhà mới thanh toán đủ 95%.",
+    "C": "Tuỳ lúc nào có tiền thì đóng.",
+    "D": "Đóng nhiều ít gì cũng được.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Phí giữ chỗ có hoàn lại không?” – bạn phản ứng thế nào?",
+    "A": "Không bao giờ hoàn.",
+    "B": "Dạ, phí giữ chỗ sẽ được hoàn lại mình 5-7 ngày làm việc sau ngày mở bán kể từ khi bổ sung đầy đủ hồ sơ ạ. Mà anh chị đừng lo, thế nào anh chị cũng ưng dự án này cho xem",
+    "C": "Không biết, đừng giữ.",
+    "D": "Mất là mất.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách xem xong nhà mẫu, gật gù nhưng không nói gì thêm – bạn nên làm gì?",
+    "A": "Anh/chị thấy sao thì tùy, em không ép.",
+    "B": "Em hiểu mình đang suy nghĩ thêm. Em có thể gợi ý một vài mã căn đẹp, chính sách tốt nhất hôm nay để mình tham khảo thêm không ạ?",
+    "C": "Cứ về nhà suy nghĩ nhé.",
+    "D": "Chắc không thích rồi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Căn đẹp đấy, nhưng anh/chị còn phải bàn với gia đình đã.” – bạn nên làm gì?",
+    "A": "Vậy thì khi nào chốt gọi lại em.",
+    "B": "Dạ em hiểu. Trong lúc anh/chị trao đổi với gia đình, em gửi thêm hình ảnh, clip căn và bảng phương án thanh toán để mọi người cùng dễ bàn hơn nhé.",
+    "C": "Thế thì hôm sau em gọi lại.",
+    "D": "Em giữ căn trước nha?",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách bảo: “Căn này tốt nhưng hơi cao so với kỳ vọng” – bạn nên phản ứng thế nào?",
+    "A": "Thôi thì tìm căn khác vậy.",
+    "B": "Dạ, em hiểu. Nhưng anh/chị có thể so với giá trị tổng thể: thiết kế đẹp, tiện ích tốt, chính sách ưu đãi hiện tại và tiềm năng tăng giá. Em có thể so sánh với các căn tương đương khu vực để mình cân nhắc kỹ hơn.",
+    "C": "Giá vậy là rẻ rồi còn gì.",
+    "D": "Giờ đâu có căn nào rẻ hơn đâu.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách vừa nói “cũng được” nhưng bắt đầu nhìn điện thoại – bạn nên làm gì?",
+    "A": "Kết thúc tư vấn vì khách không quan tâm.",
+    "B": "Em có thể gửi mã căn cụ thể kèm chính sách hôm nay. Nếu mình muốn giữ căn, em có thể hỗ trợ ngay trong vòng 10 phút nữa.",
+    "C": "Ngừng nói.",
+    "D": "Đổi chủ đề.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh/chị có người quen trong ngân hàng, sẽ hỏi vay sau” – bạn nên xử lý thế nào để không mất hứng chốt deal?",
+    "A": "Dạ, vậy em không can thiệp.",
+    "B": "Dạ, bên em có bảng gợi ý vay để anh/chị so sánh luôn. Nếu cần chứng từ từ phía chủ đầu tư để làm việc với ngân hàng riêng, em hỗ trợ ngay ạ.",
+    "C": "Tốt nhất là bên em liên hệ giúp.",
+    "D": "Vậy anh/chị cứ tự hỏi đi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách do dự nói: “Căn hộ thì thích, mà ngại thủ tục rườm rà quá.” – bạn phản hồi ra sao?",
+    "A": "Đúng là hơi phức tạp thật.",
+    "B": "Dạ, em hỗ trợ toàn bộ hồ sơ: từ giữ chỗ, hợp đồng, vay ngân hàng nếu cần. Anh/chị chỉ cần căn cước và chứng minh thu nhập, mọi thủ tục bên em xử lý giúp.",
+    "C": "Ai cũng ngại mà.",
+    "D": "Cái này thì phải làm thôi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách không phản ứng gì sau phần tư vấn chi tiết – bạn nên hỏi gì để khai mở nhu cầu?",
+    "A": "Anh/chị không thích à?",
+    "B": "Dạ không biết phần nào anh/chị còn băn khoăn nhất để em giải thích kỹ hơn?",
+    "C": "Em trình bày vậy là xong rồi.",
+    "D": "Em nói có dễ hiểu không?",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Giờ lương chưa tăng, mua nhà sợ gánh nặng tài chính.” – bạn nên điều hướng thế nào?",
+    "A": "Thì đợi khi nào tăng hẵng mua.",
+    "B": "Dạ, mình có thể chọn căn phù hợp khả năng hiện tại, trả góp nhẹ theo tiến độ xây dựng và chỉ bắt đầu thanh toán mạnh sau 1–2 năm – khi tình hình tài chính ổn định hơn.",
+    "C": "Gánh chút mới cố được.",
+    "D": "Nhà bây giờ lúc nào chẳng áp lực.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Để về bàn thêm với người thân” nhưng bạn cảm nhận được khách đang cố thoái thác – bạn nên làm gì?",
+    "A": "Vậy em không giữ căn đâu.",
+    "B": "Dạ, anh/chị yên tâm. Em giữ căn 24h với chính sách hôm nay, nếu có thay đổi em sẽ thông báo ngay. Mình vẫn có thời gian cân nhắc kỹ nhé.",
+    "C": "Về bàn là không mua đâu.",
+    "D": "Em sẽ gọi lại nhắc.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Sau buổi tư vấn, khách vẫn chưa chốt, bạn nên follow-up như thế nào?",
+    "A": "Gọi hỏi chốt chưa?",
+    "B": "Gửi tin nhắn cá nhân kèm hình ảnh căn – bảng giá – lý do tại sao căn này phù hợp với nhu cầu cụ thể của khách (vị trí, thiết kế, tài chính).",
+    "C": "Để khách tự nhớ.",
+    "D": "Bảo họ tự gọi lại.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách liên tục hỏi chi tiết nhỏ (phí quản lý, màu gạch, thương hiệu thiết bị…) nhưng không đả động đến mua – bạn nên hiểu điều gì?",
+    "A": "Khách thích hỏi vặt",
+    "B": "Khách đang so sánh kỹ và muốn kiểm tra độ hiểu biết của bạn trước khi quyết định",
+    "C": "Không có ý định mua thật",
+    "D": "Đang thử nhân viên",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh/chị mới xem vài chỗ, đang phân vân thêm” – bạn nên làm gì để tăng xác suất giữ khách?",
+    "A": "Cứ đi xem thêm rồi quay lại cũng được.",
+    "B": "Dạ em hiểu, nếu anh/chị muốn có thêm tiêu chí để so sánh, em có thể giúp tổng hợp bảng so sánh giữa TT AVIO và một số dự án tương tự về pháp lý, giá, vị trí và bàn giao – để mình dễ ra quyết định hơn.",
+    "C": "Không sao, căn em giữ đây.",
+    "D": "Các chỗ kia không bằng đâu.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách đến với người thân và người thân tỏ vẻ không hài lòng – bạn nên ưu tiên hành động nào?",
+    "A": "Bỏ qua người thân vì không phải người mua",
+    "B": "Giao tiếp khéo léo, đặt câu hỏi mở với người thân để hiểu mối quan tâm và tạo cảm giác được lắng nghe",
+    "C": "Tập trung vào người trả tiền",
+    "D": "Chuyển hướng câu chuyện sang khuyến mãi",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách nói: “Để anh/chị suy nghĩ thêm” nhưng không nói thời gian cụ thể – bạn nên làm gì?",
+    "A": "Tùy anh/chị.",
+    "B": "Dạ để dễ sắp xếp mã căn và chính sách, em giữ chỗ cho mình 24h hôm nay. Sau thời gian đó nếu có thay đổi gì em sẽ báo ngay để mình không bị lỡ quyền lợi.",
+    "C": "Cứ thoải mái suy nghĩ.",
+    "D": "Giữ thì phải cọc luôn nhé.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách liên tục hỏi: “Có giảm thêm được không?” – bạn nên phản ứng thế nào để không bị cuốn vào vòng mặc cả?",
+    "A": "Dạ, để em xin thêm.",
+    "B": "Dạ em hiểu mình quan tâm giá. Nhưng căn này đã áp dụng chính sách ưu đãi tốt nhất, nếu anh/chị thanh toán nhanh thì chính sách chiết khấu đang rất tốt, em sẽ gửi toàn bộ chi tiết rõ ràng để mình tự so sánh giá trị nhận được.",
+    "C": "Giảm thêm là không có đâu.",
+    "D": "Phải chốt hôm nay mới giảm.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách không hỏi gì sau phần tư vấn, ánh mắt lơ đãng – bạn nên làm gì?",
+    "A": "Tiếp tục nói tiếp phần chính sách",
+    "B": "Hỏi: “Dạ không biết có phần nào em trình bày chưa rõ hoặc chưa đúng điều anh/chị mong đợi ạ?”",
+    "C": "Cảm ơn và rút lui",
+    "D": "Đổi sang chuyện cá nhân",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách có vẻ thích nhưng vẫn chần chừ: “Thôi để anh/chị về tính thêm” – bạn nên dùng kỹ thuật gì?",
+    "A": "Nếu anh/chị quyết hôm nay em tặng thêm quà.",
+    "B": "Dạ, nếu em đặt vị trí của anh/chị, em cũng cần thêm thời gian cân nhắc. Nhưng nếu thật sự phù hợp thì thời điểm hôm nay có thể giúp mình tiết kiệm và chọn căn đẹp hơn. Em giữ căn 1 ngày, anh/chị thoải mái suy nghĩ nhé.",
+    "C": "Thôi thì tùy anh/chị.",
+    "D": "Chốt đi, mai hết căn.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách thể hiện thích dự án nhưng liên tục lảng tránh nói đến tài chính – bạn nên phản ứng thế nào?",
+    "A": "Không nói gì",
+    "B": "Dạ em hiểu tài chính luôn là yếu tố khó nói. Em có thể gửi bảng gợi ý phương án tài chính phù hợp thu nhập anh/chị, chỉ mang tính tham khảo riêng tư thôi ạ.",
+    "C": "Nếu không đủ tiền thì thôi.",
+    "D": "Cứ cọc trước đã.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi rất kỹ về pháp lý và quy trình sau khi đặt cọc – điều đó thường cho thấy gì?",
+    "A": "Khách rảnh",
+    "B": "Khách đang cân nhắc nghiêm túc và cần đảm bảo chắc chắn trước khi đưa ra quyết định",
+    "C": "Khách không tin",
+    "D": "Khách đang thách thức",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách liên tục nói “để tham khảo thêm”, nhưng bạn thấy họ nán lại lâu hơn bình thường – bạn nên xử lý ra sao?",
+    "A": "Chắc anh/chị không muốn mua.",
+    "B": "Dạ nếu anh/chị vẫn đang phân vân, mình có thể chia sẻ điều còn đắn đo để em hỗ trợ đầy đủ trước khi mình ra quyết định.",
+    "C": "Đừng chần chừ kẻo mất căn.",
+    "D": "Để em gọi lại sau.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói với giọng gay gắt: “Dự án này nhìn giống mấy cái chung cư tầm trung thôi mà, có gì đặc biệt?” – bạn phản ứng sao?",
+    "A": "Dạ em tôn trọng cảm nhận của anh/chị. Nếu mình có 1 chút thời gian, em có thể chỉ ra những điểm khác biệt về pháp lý, thiết kế, bàn giao và cộng đồng cư dân để mình so sánh cụ thể hơn ạ.",
+    "B": "Dạ không phải đâu, chung cư này cao cấp hơn.",
+    "C": "Vậy mình xem chỗ khác ạ.",
+    "D": "Anh/chị chưa thấy hết thôi.",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách phàn nàn: “Dự án gì mà tầng trệt không có shophouse lớn, bất tiện ghê.” – bạn nên trả lời sao?",
+    "A": "Thiết kế vậy cho sang.",
+    "B": "Dạ, dự án thiết kế ưu tiên không gian sống yên tĩnh, không quá thương mại hóa tầng trệt. Nhưng chỉ cách vài bước chân là trung tâm thương mại lớn và siêu thị xung quanh. Mình vẫn đảm bảo tiện ích mà không ảnh hưởng đến cư dân.",
+    "C": "Đó là điểm mạnh đó ạ.",
+    "D": "Có mấy shophouse nhỏ thôi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách khó chịu: “Giá này cao hơn khu bên kia, trong khi tiện ích cũng tương đương?” – bạn nên xử lý thế nào?",
+    "A": "Bên kia rẻ hơn thì mình qua bên đó.",
+    "B": "Dạ em hiểu so sánh là cần thiết. Tuy nhiên, ngoài tiện ích, TT AVIO có ưu thế về pháp lý hoàn thiện, thiết kế hiệu quả và tiềm năng kết nối Metro/Vành Đai 3 mà không phải nơi nào cũng có ạ.",
+    "C": "Giá bên kia chưa chắc đã đúng đâu.",
+    "D": "Bên kia không tốt bằng bên em.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Chủ đầu tư này nghe lạ quá, không biết có uy tín không?” – bạn phản ứng thế nào?",
+    "A": "Dạ, ai cũng hỏi vậy.",
+    "B": "Dạ, em rất hiểu sự thận trọng của anh/chị. Chủ đầu tư TT Capital đã thực hiện nhiều dự án tại Bình Dương và là đối tác phát triển cùng đơn vị phân phối DKRS. Mọi dự án đều có pháp lý đầy đủ và tiến độ được cập nhật minh bạch ạ.",
+    "C": "Chủ đầu tư mới nên giá rẻ.",
+    "D": "Tên lạ nhưng làm tốt.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách khẳng định: “Anh/chị mua nhiều nhà rồi, em đừng nói kiểu quảng cáo nha!” – bạn nên làm gì?",
+    "A": "Dạ vậy em không nói gì thêm ạ.",
+    "B": "Em xin lỗi nếu cách trình bày của em khiến anh/chị thấy không thoải mái. Em sẽ tập trung vào các thông tin cụ thể mà mình cần – như pháp lý, tiến độ, và phương án tài chính nhé.",
+    "C": "Dạ, thông tin này do sếp em cung cấp.",
+    "D": "Anh/chị mua nhiều thì chắc biết hết rồi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách cau mày: “Dự án này giờ mới làm, 3 năm nữa mới ở, lâu quá!” – bạn nên điều hướng thế nào?",
+    "A": "Chờ 3 năm là bình thường mà.",
+    "B": "Dạ, em hiểu. Tuy nhiên, nếu mình có kế hoạch sống ổn định sau 2–3 năm thì đây là thời điểm vào sớm để chọn căn đẹp và chính sách tốt. Hơn nữa, thời gian thi công là đảm bảo để đảm bảo chất lượng thi công và pháp lý an toàn nhất.",
+    "C": "Căn nào cũng vậy thôi.",
+    "D": "Giờ xây gấp thì lại không tốt.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách phản đối: “Sao phí quản lý cao vậy?” – bạn nên trả lời thế nào để giảm cảm giác khó chịu?",
+    "A": "Phí đó là chuẩn rồi.",
+    "B": "Dạ, mức phí này đảm bảo vận hành đầy đủ tiện ích: bảo vệ, thang máy, hồ bơi, vệ sinh, và cảnh quan – để anh/chị và gia đình luôn sống trong môi trường chất lượng cao.",
+    "C": "Chịu thì chịu, không chịu thì thôi.",
+    "D": "Phí cao mới xứng với cư dân.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách tỏ thái độ nghi ngờ: “Tư vấn nào cũng nói tốt, nhưng đến lúc nhận nhà thì khác!” – bạn phản ứng sao?",
+    "A": "Em khác mấy người đó.",
+    "B": "Dạ, em hiểu cảm nhận của anh chị. Vì vậy, em sẽ gửi hình ảnh thực tế công trường và bảng minh họa tiêu chuẩn bàn giao – kèm cam kết hợp đồng rõ ràng để anh/chị kiểm chứng từng phần.",
+    "C": "Bên em chắc chắn không vậy.",
+    "D": "Nếu không tin thì thôi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách bảo: “Anh chị không có nhu cầu, đi xem cho biết thôi.” – bạn xử lý thế nào để vẫn tạo thiện cảm?",
+    "A": "Vậy thì thôi, em không tư vấn.",
+    "B": "Dạ, rất vui khi anh/chị ghé tham quan. Nếu cần thông tin gì về quy hoạch hoặc tài chính, em vẫn hỗ trợ vì biết đâu sau này mình có người thân, bạn bè cần thì anh/chị chia sẻ giúp em ạ.",
+    "C": "Cứ xem biết đâu thích.",
+    "D": "Tham khảo cũng được ạ.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách khắt khe: “Sao căn hộ này không có thiết kế smart home?” – bạn nên phản ứng thế nào cho thuyết phục?",
+    "A": "Smart home giờ ai cũng lắp được.",
+    "B": "Dạ, chủ đầu tư tối ưu vào chất lượng vật liệu và công năng sử dụng. Tuy nhiên, hệ thống điện vẫn cho phép dễ dàng tích hợp smart home nếu mình muốn nâng cấp sau này. Ngoài ra, hệ thống intercom mà dự án bên em cam kết bàn giao thì anh chị cũng biết là thường chỉ xuất hiện trong các căn hộ cao cấp ấy ạ.",
+    "C": "Thiết kế cổ điển hơn.",
+    "D": "Chủ đầu tư chưa nghĩ đến.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Em nói giá vậy, chứ sau chắc gì không bị đội lên mấy trăm triệu?” – bạn nên phản ứng thế nào?",
+    "A": "Không có chuyện đó đâu ạ.",
+    "B": "Dạ, em hiểu tâm lý lo ngại này. Vì vậy, tất cả giá bán, thuế và phí đều được ghi rõ trong hợp đồng. Nếu có điều chỉnh, sẽ theo luật và có văn bản rõ ràng – chứ không tùy tiện đâu anh/chị.",
+    "C": "Chỉ tăng nhẹ thôi ạ.",
+    "D": "Ai cũng nói vậy nhưng vẫn mua.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách cáu: “Tại sao anh/chị không được chọn vị trí căn hộ như ý muốn, thấy vô lý!” – bạn phản hồi sao cho hợp lý?",
+    "A": "Dạ hết rồi thì chịu thôi.",
+    "B": "Dạ, em rất tiếc. Một số vị trí đẹp đã được đặt cọc từ trước, nhưng em sẽ lọc giúp anh/chị các căn còn lại gần đúng nhu cầu, và có thể đề xuất quyền ưu tiên nếu có căn tương đương phát sinh.",
+    "C": "Vì khách khác chốt nhanh hơn.",
+    "D": "Dạ vậy chắc phải chờ đợt sau.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách giận dữ: “Anh/chị mất thời gian quá mà em chỉ nói loanh quanh, có vào trọng tâm không vậy?” – bạn nên làm gì?",
+    "A": "Dạ xin lỗi, để em nói lại từ đầu.",
+    "B": "Em rất xin lỗi nếu cách trình bày của em chưa rõ. Anh/chị có thể cho em biết phần nào mình quan tâm nhất để em tập trung vào nội dung phù hợp hơn ạ.",
+    "C": "Em cũng đang cố gắng rồi mà.",
+    "D": "Anh/chị có cần nói kiểu căng vậy không?",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách cắt ngang khi bạn đang nói: “Thôi! Nói thẳng là bên em có giảm giá sâu không?” – bạn xử lý thế nào?",
+    "A": "Em giảm hết mức rồi.",
+    "B": "Dạ, em hiểu mình đang muốn đi vào phần cốt lõi. Bên em có chính sách chiết khấu theo từng phương án thanh toán cụ thể – để anh/chị chọn đúng cách có lợi nhất.",
+    "C": "Chốt luôn em giảm thêm.",
+    "D": "Cái này là mức cuối rồi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách tỏ thái độ mỉa mai: “Dự án mà tốt thật thì người ta đã tranh nhau mua rồi, sao còn nhiều căn?” – bạn nên phản hồi thế nào?",
+    "A": "Dạ, ai thích thì mua thôi.",
+    "B": "Dạ, mỗi khách hàng có thời điểm và tiêu chí mua khác nhau. Hiện tại còn căn vì bên em mới ra mắt block mới và đang áp dụng chính sách ưu đãi hấp dẫn.",
+    "C": "Do ít người biết thôi.",
+    "D": "Do thị trường chung đang chậm.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách gay gắt: “Em làm sale mà trình bày kiểu gì lủng củng, nghe mệt quá!” – bạn phản ứng sao để giữ chuyên nghiệp?",
+    "A": "Em mới vào nghề nên hơi run.",
+    "B": "Dạ em xin lỗi vì khiến anh/chị chưa hài lòng. Em xin phép nói ngắn gọn hơn và tập trung đúng phần anh/chị cần ạ.",
+    "C": "Anh/chị có thể nghe giúp em được không?",
+    "D": "Lỗi tại hệ thống huấn luyện em.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách chỉ trích: “Cái này em nói hôm trước khác với hôm nay nha!” – bạn nên xử lý sao cho uyển chuyển?",
+    "A": "Hôm trước em nhớ nhầm, thông cảm.",
+    "B": "Dạ, em cảm ơn anh/chị đã nhắc. Để chính xác nhất, em sẽ gửi văn bản chính thức từ chủ đầu tư và đối chiếu lại để đảm bảo thông tin đúng tuyệt đối ạ.",
+    "C": "Thông tin có thể thay đổi.",
+    "D": "Chắc anh/chị nhớ nhầm rồi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi khó: “Nếu anh/chị mua rồi mà không có sổ thì em có chịu trách nhiệm không?” – bạn nên nói gì?",
+    "A": "Dạ không ạ, em chỉ tư vấn thôi.",
+    "B": "Dạ, quyền lợi của mình được ràng buộc qua hợp đồng với chủ đầu tư – không phụ thuộc vào cá nhân em. Tuy nhiên, em sẽ đồng hành hỗ trợ toàn bộ hồ sơ và minh bạch pháp lý để tránh rủi ro đó xảy ra.",
+    "C": "Không có chuyện không ra sổ đâu.",
+    "D": "Bên em chưa từng bị vậy.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách khẳng định: “Em nói nhiều quá, chỉ cần đúng 3 điều: giá, pháp lý, tiến độ. Không thêm.” – bạn xử lý sao?",
+    "A": "Dạ, vậy em nói ngắn gọn.",
+    "B": "Dạ em ghi nhận, em sẽ gửi ngay thông tin ba mục đó – kèm link hình ảnh thật để mình có cái nhìn khách quan nhất.",
+    "C": "Vậy thì thiếu sót đó ạ.",
+    "D": "Cái đó ai cũng biết rồi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Em đừng dạy anh/chị cách mua nhà, tụi này không thiếu tiền đâu” – bạn giữ thế nào?",
+    "A": "Dạ, em không có ý vậy.",
+    "B": "Dạ em xin lỗi nếu lời nói khiến anh/chị hiểu sai ý. Em chỉ cố gắng hỗ trợ sao cho thông tin rõ ràng và tối ưu nhất cho quyết định của mình thôi ạ.",
+    "C": "Em đâu có nói vậy.",
+    "D": "Nếu anh/chị đã rành thì không cần em nói nữa.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Căn nào là 3PN trong mặt bằng này?” – bạn trả lời thế nào?",
+    "A": "Dạ, không có căn 3PN đâu ạ.",
+    "B": "Dạ, căn 06 là căn 3PN duy nhất, diện tích 81.48m², nằm góc hướng view TPHCM, thấy được Vincom Dĩ An.",
+    "C": "Có mấy căn lận, để em tra lại.",
+    "D": "Em nhớ là căn số 01.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách muốn view hồ bơi – bạn nên giới thiệu nhóm căn nào?",
+    "A": "Các căn từ 11–22",
+    "B": "Các căn từ 07-11",
+    "C": "Căn số 19, 20, 21",
+    "D": "Tất cả các căn đều nhìn hồ",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách cần căn có 2 phòng ngủ, 2 vệ sinh, diện tích lớn nhất – bạn nên chọn căn nào?",
+    "A": "Căn 01 & 07 (68.26m²)",
+    "B": "Căn 10 (67.31m²)",
+    "C": "Căn 26 (66.26m²)",
+    "D": "Căn 06 (61.48m²)",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Muốn căn 2PN nhưng tối ưu giá nhất, vừa đủ ở – bạn nên đề xuất căn nào?”",
+    "A": "Căn 02 - 05 hoặc 19 (62.47m²)",
+    "B": "Căn 04 (66.26m²)",
+    "C": "Căn 10 (67.31m²)",
+    "D": "Căn 01 (1PN thôi)",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Block Orion có bao nhiêu căn hộ mỗi tầng?” – bạn trả lời sao?",
+    "A": "28 căn",
+    "B": "24 căn",
+    "C": "26 căn",
+    "D": "22 căn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách muốn tránh nắng hướng Tây – bạn nên gợi ý nhóm căn nào?",
+    "A": "Căn từ 01–06 & 24-26",
+    "B": "Căn từ 08-14",
+    "C": "Căn 18-23",
+    "D": "Tất cả đều nắng",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Căn 22 có gì đặc biệt không?” – bạn nên nói gì?",
+    "A": "Dạ không khác biệt lắm.",
+    "B": "Dạ, căn 22 là loại 1PN 1WC, diện tích nhỏ nhất toàn tầng (40.07m²) – phù hợp khách mua đầu tư cho thuê hoặc ở một mình. Vị trí ở góc tầng nên có logia riêng, thuận tiện.",
+    "C": "Em không rõ diện tích.",
+    "D": "Nó nằm ngoài rìa nên rẻ.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Vị trí căn 07 có gì đáng chú ý?” – bạn nên phản hồi sao cho thuyết phục?",
+    "A": "Căn giữa thôi, không có gì.",
+    "B": "Dạ, căn 07 nằm ở trục giữa, diện tích 68.26m² – thiết kế 2PN 2WC tối ưu. Đặc biệt nhìn về công viên nội khu và có logia thoáng.",
+    "C": "Nó hơi nhỏ hơn căn 19.",
+    "D": "Nằm giữa nên ồn.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh muốn một căn tránh thang máy, yên tĩnh” – bạn gợi ý căn nào?",
+    "A": "Căn 13 (giữa cụm thang)",
+    "B": "Căn 07 (góc cuối dãy, xa cụm thang, yên tĩnh)",
+    "C": "Căn 05 (gần thang)",
+    "D": "Căn 11 (đầu hành lang)",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách phân vân: “Vị trí căn 26 có tiện không?” – bạn nên nói gì?",
+    "A": "Dạ căn này nằm gần thang máy, thuận tiện ra vào và di chuyển nhanh. Diện tích 56.25m² – phù hợp khách cần sự thuận tiện nhanh chóng ạ.",
+    "B": "Căn này hơi xa tiện ích.",
+    "C": "Căn cuối hành lang.",
+    "D": "Nó cũng bình thường thôi.",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Có bao nhiêu cụm thang máy ở mặt bằng tầng này?” – bạn trả lời thế nào?",
+    "A": "1 cụm duy nhất.",
+    "B": "Có 2 cụm chính, đặt ở giữa cụm căn hộ, đảm bảo chia đều lưu lượng và thuận tiện di chuyển cho cư dân.",
+    "C": "Khoảng 4–5 thang rải rác.",
+    "D": "Em không để ý nữa.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Các căn góc có gì nổi bật hơn căn giữa?” – bạn phản hồi sao cho thuyết phục?",
+    "A": "Nhìn ra hai hướng, nhiều ánh sáng hơn.",
+    "B": "Dạ, các căn góc như căn có 2 mặt thoáng, đón ánh sáng và gió tự nhiên nhiều hơn. Thường rộng rãi và riêng tư và được nhiều khách ưu tiên dù giá cao hơn.",
+    "C": "Căn góc thường nóng hơn.",
+    "D": "Chắc diện tích lớn hơn.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh/chị ngại hành lang dài, đi xa thang máy” – bạn nên giới thiệu căn nào hợp lý?",
+    "A": "Căn 01",
+    "B": "Dạ bên em thiết kế cụm thang máy đặt ở giữa cụm căn hộ, đảm bảo chia đều lưu lượng và thuận tiện di chuyển cho cư dân, không quá xa đâu ạ.",
+    "C": "Căn 19",
+    "D": "Căn 24, 25",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Tầng này có phòng rác chung không?” – bạn nên trả lời sao?",
+    "A": "Dạ, phòng rác nằm gần cụm thang chính và được thiết kế riêng biệt kín mùi – đảm bảo không ảnh hưởng căn hộ nào.",
+    "B": "Không rõ, chắc là có.",
+    "C": "Nằm trong căn hộ luôn.",
+    "D": "Cứ mang xuống tầng trệt.",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Căn nào view trực diện tiện ích nội khu như hồ bơi – sân chơi?” – bạn gợi ý gì?",
+    "A": "Các căn 01-06",
+    "B": "Căn 18-23",
+    "C": "Căn 24-26",
+    "D": "Các căn từ 07-11",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Các căn đầu hành lang có bất tiện gì không?” – bạn xử lý sao?",
+    "A": "Đầu hành lang dễ ồn.",
+    "B": "Dạ, một số khách không thích căn đầu vì sợ xa thang hoặc hành lang mở, nhưng nhiều khách lại thích vì ít bị qua lại – riêng tư.",
+    "C": "Đúng là không nên chọn.",
+    "D": "Giá nó rẻ hơn.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách phân vân: “Căn hộ nào gần thang thoát hiểm nhất?” – bạn gợi ý?",
+    "A": "Các căn đều được bố trí gần thang thoát hiểm do có 3 hệ thống thang thoát hiểm phân bổ đều.",
+    "B": "Căn 05 và 19",
+    "C": "Căn 13",
+    "D": "Căn 20",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Có loại căn nào chỉ có 1 WC không?” – bạn trả lời sao?",
+    "A": "Dạ không, căn nào cũng 2 WC.",
+    "B": "Dạ có, căn 22 (1PN – 1WC) và một số căn như 08-11, 12A-16, 20-21, 25-26 là 2PN mở – 1WC, thiết kế tiết kiệm cho khách ở đơn thân hoặc đầu tư cho thuê.",
+    "C": "Có căn 3 WC luôn.",
+    "D": "Em nghĩ chỉ có loại 2WC.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Các căn có logia giặt phơi riêng không?” – bạn phản hồi sao?",
+    "A": "Không ạ, phơi ở logia chính.",
+    "B": "Dạ, hầu hết các căn 2PN-2WC đều bố trí logia giặt phơi riêng tách biệt logia ban công – đảm bảo thẩm mỹ và tiện lợi.",
+    "C": "Tùy hứng thiết kế.",
+    "D": "Có thì có, không thì thôi.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Tôi quan tâm lối đi thông thoáng, ít căn dùng chung hành lang” – bạn nên gợi ý nhóm căn nào?",
+    "A": "Căn 01–22 (hành lang riêng 2 cụm)",
+    "B": "Căn 13–16 (nằm giữa)",
+    "C": "Các căn đều có lối đi thông thoáng với hành lang 1.6m, để em hướng dẫn chị xem ở nhà mẫu ạ.",
+    "D": "Căn nào cũng vậy",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức “Thanh toán nhanh” được áp dụng cho những khách hàng nào?",
+    "A": "Khách cần vay vốn ngân hàng",
+    "B": "Khách muốn chiết khấu cao và thanh toán sớm",
+    "C": "Khách thu nhập thấp",
+    "D": "Khách chưa quyết định sở hữu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mức chiết khấu cao nhất (8%) trong phương thức “Thanh toán nhanh” được áp dụng khi khách thanh toán bao nhiêu?",
+    "A": "50%",
+    "B": "70%",
+    "C": "90%",
+    "D": "30%",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong phương thức “Dễ sở hữu”, khách sẽ thanh toán bao nhiêu mỗi tháng từ đợt 9–31?",
+    "A": "12 triệu/tháng",
+    "B": "6 triệu/tháng",
+    "C": "9 triệu/tháng (chưa VAT)",
+    "D": "15 triệu/tháng",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức “Đàm phán dễ sở hữu” cho phép khách hàng làm gì?",
+    "A": "Tự chọn căn hộ không cần đặt cọc",
+    "B": "Tự đề xuất mức thanh toán hàng tháng phù hợp trong 23 tháng",
+    "C": "Lùi thời điểm ký hợp đồng vô thời hạn",
+    "D": "Không cần trả phí bảo trì",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Điểm chung của cả phương thức “Dễ sở hữu” và “Đàm phán dễ sở hữu” là gì?",
+    "A": "Đều cần thanh toán 70% ngay từ đầu",
+    "B": "Đều chiết khấu cao",
+    "C": "Đều cho phép thanh toán kéo dài 23 tháng với dòng tiền nhẹ",
+    "D": "Không yêu cầu VAT",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong phương thức “Thanh toán nhanh”, khi nào khách phải đóng 25%?",
+    "A": "Khi ký hợp đồng",
+    "B": "Khi nhận bàn giao căn hộ",
+    "C": "Khi nhận GCN",
+    "D": "Khi thông báo mở bán",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong phương thức “Dễ sở hữu”, đợt nào khách thanh toán 5% để nhận GCN?",
+    "A": "Đợt 8",
+    "B": "Đợt 32",
+    "C": "Đợt 33",
+    "D": "Đợt 12",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đâu là lợi ích chính của phương thức “Đàm phán dễ sở hữu” so với “Dễ sở hữu”?",
+    "A": "Hạn mức vay cao hơn",
+    "B": "Lãi suất thấp hơn",
+    "C": "Linh hoạt hơn về mức thanh toán hàng tháng",
+    "D": "Nhận nhà sớm hơn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Các phương thức đều yêu cầu thanh toán khoản nào vào thời điểm bàn giao căn hộ?",
+    "A": "5% + VAT + phí bảo trì",
+    "B": "25% giá trị căn hộ + VAT + phí bảo trì 2%",
+    "C": "50% giá trị hợp đồng",
+    "D": "100% giá trị còn lại",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu khách thanh toán 50% theo phương thức nhanh, họ sẽ được chiết khấu bao nhiêu?",
+    "A": "4%",
+    "B": "6%",
+    "C": "8%",
+    "D": "10%",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dự án TT AVIO – Block Orion đang áp dụng bao nhiêu phương thức thanh toán chính?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tên của phương thức thanh toán hỗ trợ khách trả góp 9 triệu/tháng là gì?",
+    "A": "Thanh toán nhanh",
+    "B": "Thanh toán linh hoạt",
+    "C": "Dễ sở hữu",
+    "D": "Chiết khấu sớm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức “Thanh toán nhanh” dành cho nhóm khách hàng nào?",
+    "A": "Khách chưa có tài chính",
+    "B": "Khách muốn giữ căn trước",
+    "C": "Khách có tài chính mạnh và muốn nhận chiết khấu cao",
+    "D": "Khách nước ngoài",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong phương thức “Thanh toán nhanh”, khách hàng có thể được chiết khấu tối đa bao nhiêu phần trăm?",
+    "A": "4%",
+    "B": "6%",
+    "C": "8%",
+    "D": "10%",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức “Đàm phán dễ sở hữu” giúp khách hàng linh hoạt điều gì?",
+    "A": "Lựa chọn nội thất",
+    "B": "Chọn thời điểm bàn giao",
+    "C": "Tự đề xuất mức thanh toán mỗi tháng trong 23 tháng",
+    "D": "Chọn phương án vay ngân hàng",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phí bảo trì căn hộ (bắt buộc) là bao nhiêu phần trăm và đóng vào thời điểm nào?",
+    "A": "2%, đóng khi nhận nhà",
+    "B": "5%, đóng khi ký hợp đồng",
+    "C": "2%, đóng khi nhận GCN",
+    "D": "1%, đóng mỗi tháng",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong các phương thức, tỷ lệ thanh toán còn lại 5% được đóng vào khi nào?",
+    "A": "Khi ký hợp đồng",
+    "B": "Khi nhận GCN (Giấy chứng nhận quyền sở hữu nhà)",
+    "C": "Khi bàn giao nhà",
+    "D": "Khi ký VBTT",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức “Dễ sở hữu” phù hợp nhất với nhóm khách hàng nào?",
+    "A": "Có dòng tiền ổn định nhưng chưa đủ tài chính mạnh",
+    "B": "Chỉ muốn đầu tư ngắn hạn",
+    "C": "Đã sở hữu nhà, mua để nghỉ dưỡng",
+    "D": "Người nước ngoài",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hàng chọn phương thức “Thanh toán nhanh” cần thanh toán ít nhất bao nhiêu % khi ký văn bản thỏa thuận?",
+    "A": "10%",
+    "B": "25%",
+    "C": "30%",
+    "D": "50%",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Điểm giống nhau của 3 phương thức là gì?",
+    "A": "Đều không có chiết khấu",
+    "B": "Đều yêu cầu đặt cọc giữ chỗ trước",
+    "C": "Đều chia thành nhiều đợt thanh toán phù hợp tiến độ",
+    "D": "Đều áp dụng cho người nước ngoài",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức nào phù hợp với người có thu nhập ổn định nhưng không thể trả quá nhiều trong thời gian ngắn?",
+    "A": "Thanh toán nhanh",
+    "B": "Trả góp ngân hàng",
+    "C": "Dễ sở hữu",
+    "D": "Đàm phán nhận nhà sớm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chiết khấu 6% được áp dụng trong phương thức nào và với tỷ lệ thanh toán bao nhiêu?",
+    "A": "Thanh toán nhanh – 50%",
+    "B": "Dễ sở hữu – 30%",
+    "C": "Đàm phán – 70%",
+    "D": "Thanh toán nhanh – 70%",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu chính của phương thức “Đàm phán dễ sở hữu” là gì?",
+    "A": "Tăng tỷ lệ vay ngân hàng",
+    "B": "Cố định lãi suất",
+    "C": "Tạo điều kiện cho khách tự điều chỉnh tiến độ thanh toán trong giới hạn cho phép",
+    "D": "Miễn phí bảo trì",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách chọn phương thức “Dễ sở hữu”, việc thanh toán 95% sẽ diễn ra vào giai đoạn nào?",
+    "A": "Khi ký VBTT",
+    "B": "Sau 23 tháng và trước khi bàn giao nhà",
+    "C": "Khi ký hợp đồng",
+    "D": "Ngay từ đầu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức nào là duy nhất có lộ trình thanh toán 23 tháng cố định mỗi tháng là 9 triệu (chưa VAT)?",
+    "A": "Đàm phán dễ sở hữu",
+    "B": "Dễ sở hữu",
+    "C": "Thanh toán nhanh",
+    "D": "Trả góp ngân hàng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách chọn “Thanh toán nhanh” có thể hoàn tất bao nhiêu phần trăm giá trị HĐMB trước khi nhận nhà?",
+    "A": "30%",
+    "B": "50%",
+    "C": "80%",
+    "D": "95%",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trong phương thức “Dễ sở hữu”, số tiền 9 triệu mỗi tháng được xem là gì?",
+    "A": "Phí dịch vụ",
+    "B": "Khoản cọc không hoàn lại",
+    "C": "Số tiền trong giá trị căn hộ phải đóng cho CĐT, không vay, không lãi suất",
+    "D": "Thanh toán theo hợp đồng vay",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức nào không quy định mức cố định 9 triệu/tháng mà cho phép khách linh hoạt đề xuất?",
+    "A": "Thanh toán chuẩn",
+    "B": "Dễ sở hữu",
+    "C": "Đàm phán dễ sở hữu",
+    "D": "Thanh toán theo quý",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phương thức nào KHÔNG đi kèm chính sách chiết khấu trực tiếp?",
+    "A": "Thanh toán nhanh",
+    "B": "Dễ sở hữu",
+    "C": "Trả thẳng 95%",
+    "D": "Trả góp ngân hàng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tất cả các phương thức đều yêu cầu thanh toán 5% còn lại vào thời điểm nào?",
+    "A": "Khi ký VBTT",
+    "B": "Khi ký HĐMB",
+    "C": "Khi bàn giao nhà",
+    "D": "Khi nhận GCN (Giấy chứng nhận quyền sở hữu)",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tầng 36 của Block Orion có điểm gì khác biệt lớn nhất so với tầng 5–35?",
+    "A": "Có ít thang máy hơn",
+    "B": "Không có căn góc",
+    "C": "Có khu vực tiện ích ngoài trời riêng biệt như sân vườn, ghế nghỉ, lối dạo bộ",
+    "D": "Không có căn hộ nào",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn nào là căn 3 phòng ngủ duy nhất từ tầng 5–35?",
+    "A": "Căn 01",
+    "B": "Căn 19",
+    "C": "Căn 06",
+    "D": "Căn 26",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại tầng 36, có bao nhiêu căn hộ còn giữ nguyên thiết kế như tầng 5–35?",
+    "A": "26",
+    "B": "22",
+    "C": "12",
+    "D": "11",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Hướng view chính của các căn 01 đến 06 là gì?",
+    "A": "Đông Nam – hướng mặt tiền DT743C",
+    "B": "Tây Bắc – nhìn về hồ bơi",
+    "C": "Đông Bắc – view vườn",
+    "D": "Tây Nam – view đường nội khu",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ nào nằm ở đầu hành lang phía Đông Bắc và có diện tích nhỏ nhất toàn block?",
+    "A": "Căn 11",
+    "B": "Căn 22",
+    "C": "Căn 01",
+    "D": "Căn 04",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khu tiện ích trên tầng 36 bao gồm các yếu tố nào sau đây?",
+    "A": "Khu BBQ, sân bóng mini",
+    "B": "Hồ bơi tràn, cầu trượt trẻ em",
+    "C": "Lối dạo bộ, ghế nghỉ, khu tiểu cảnh",
+    "D": "Sân cầu lông và phòng gym",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn hộ nào có diện tích lớn nhất toàn dự án (ngoài penthouse nếu có)?",
+    "A": "Căn 06",
+    "B": "Căn 10",
+    "C": "Căn 01",
+    "D": "Căn 07",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Căn 01 và căn 07 có điểm chung nào?",
+    "A": "Cùng diện tích và cùng màu",
+    "B": "Cùng là căn góc, 2PN 2WC, 68.26m2",
+    "C": "Cùng hướng ra vườn nội khu",
+    "D": "Cùng nằm ở đầu dãy đối diện",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Trục căn 08–11 có diện tích thực tế (NFA) khoảng bao nhiêu?",
+    "A": "51m²",
+    "B": "56m²",
+    "C": "60m²",
+    "D": "67m²",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Số lượng căn hộ mỗi tầng ở tầng 5–35 là bao nhiêu?",
+    "A": "24",
+    "B": "26",
+    "C": "28",
+    "D": "22",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Căn nào là góc, 3 phòng ngủ, view thoáng nhất block này?” – bạn nên chỉ vào đâu trên mặt bằng?",
+    "A": "Căn 19 – góc Đông Bắc",
+    "B": "Căn 06 – góc Tây Nam, diện tích lớn, 3PN duy nhất, view rộng",
+    "C": "Căn 14 – giữa tầng",
+    "D": "Căn 01 – đầu dãy",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách nói: “Anh cần căn 2PN nhưng không quá to, vừa đủ để ở, tiết kiệm tài chính, view nội khu”, bạn nên dẫn đến nhóm căn nào?",
+    "A": "Căn 05–06",
+    "B": "Căn 08–11 (NSA ~56.25m² / NFA ~51.25m²)",
+    "C": "Căn 23–24",
+    "D": "Căn 19",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách đang đứng ở sa bàn và hỏi: “Căn này có phải view nội khu không?” – bạn đang chỉ căn số 10. Bạn trả lời thế nào?",
+    "A": "Không ạ, view đường nội khu.",
+    "B": "Đúng rồi, dãy 08–11 nhìn về hồ bơi nội khu, căn 10 chính giữa, view đẹp và thoáng.",
+    "C": "Em không chắc, để em hỏi lại.",
+    "D": "Tầng càng cao thì mới thấy hồ.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nữ đi cùng gia đình nói: “Em không thích ở gần phòng rác, có căn nào tách biệt không?” – bạn nên gợi ý?",
+    "A": "Căn 12A, 13 (gần phòng rác)",
+    "B": "Căn 04-09 (đầu dãy, cách xa cụm tiện ích và rác)",
+    "C": "Căn 14, 15",
+    "D": "Căn 18",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách thắc mắc: “Sao tầng 36 nhìn khác hẳn mấy tầng còn lại?” – bạn nên giải thích thế nào?",
+    "A": "Vì đó là tầng kỹ thuật.",
+    "B": "Đó là tầng mái, kết hợp căn hộ và tiện ích riêng như vườn trên cao, ghế nghỉ, không gian thư giãn – tạo sự khác biệt đẳng cấp.",
+    "C": "Em cũng không rõ.",
+    "D": "Do không bán.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách nói: “Anh không thích đi xa thang máy” – bạn nên chỉ vào nhóm căn nào?",
+    "A": "Căn 01–05",
+    "B": "Căn 08–11",
+    "C": "Căn 12A–14",
+    "D": "Căn 22, 23",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Căn số 23 có gì đặc biệt không?” – bạn phản ứng thế nào?",
+    "A": "Không có gì nhiều.",
+    "B": "Dạ, căn góc, 67.31m², thiết kế 2PN 2WC rộng rãi – gần thang máy, thuận tiện",
+    "C": "Giá rẻ thôi ạ.",
+    "D": "Căn 23 nằm gần rác.",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Có căn nào 1PN không?” – bạn chỉ vào đâu?",
+    "A": "Căn 01",
+    "B": "Căn 22",
+    "C": "Căn 12A",
+    "D": "Căn 19",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hỏi: “Tầng cao nhất là bao nhiêu?” – bạn trả lời?",
+    "A": "30",
+    "B": "35",
+    "C": "36",
+    "D": "38",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách đứng trước mặt bằng và hỏi: “Block này có bao nhiêu căn hộ mỗi tầng?” – bạn trả lời?",
+    "A": "24 căn",
+    "B": "26 căn",
+    "C": "22 căn",
+    "D": "20 căn",
     "answer": "B"
   }
 ]
