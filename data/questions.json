@@ -2905,5 +2905,1355 @@
     "C": "22 căn",
     "D": "20 căn",
     "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nguyên tắc quan trọng nhất khi bắt đầu nhắn tin với khách hàng mới là gì?",
+    "A": "Gửi ngay bảng giá",
+    "B": "Giới thiệu bản thân thật dài",
+    "C": "Tạo sự thân thiện và gợi mở nhu cầu khách",
+    "D": "Gửi hình ảnh nhà mẫu",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu khách chỉ nhắn 'Giá bao nhiêu?', phản hồi hiệu quả nên là gì?",
+    "A": "Trả lời đúng giá xong dừng lại",
+    "B": "Gửi bảng giá rồi hỏi thêm nhu cầu để tư vấn sát hơn",
+    "C": "Gửi link Facebook",
+    "D": "Gọi ngay lập tức",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Câu hỏi nào sau đây giúp bạn khai thác nhu cầu khách hàng tốt hơn khi nhắn tin?",
+    "A": "Anh/chị có muốn đặt cọc luôn không?",
+    "B": "Anh/chị quan tâm đến căn mấy phòng, tầm tài chính khoảng bao nhiêu?",
+    "C": "Em gửi hình ảnh nha?",
+    "D": "Chốt luôn em giảm thêm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một sai lầm phổ biến khi tư vấn qua tin nhắn là gì?",
+    "A": "Dùng ngôn từ chuyên nghiệp",
+    "B": "Nhắn tin quá dài, liệt kê mọi thứ một lúc",
+    "C": "Dùng icon",
+    "D": "Hỏi thăm khách",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách giữ tương tác với khách chưa muốn mua ngay qua tin nhắn là gì?",
+    "A": "Nhắn mỗi tuần bảng giá mới",
+    "B": "Gửi thông tin hữu ích định kỳ như tiến độ, ưu đãi, pháp lý,...",
+    "C": "Bỏ qua khách đó",
+    "D": "Chặn khách",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách phản đối: 'Dự án xa quá', bạn nên phản hồi thế nào?",
+    "A": "Đúng rồi, cũng hơi xa",
+    "B": "Gửi thông tin hạ tầng giao thông và thời gian kết nối thực tế",
+    "C": "Chuyển khách cho người khác tư vấn",
+    "D": "Im lặng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Làm sao để tạo cảm giác tin tưởng khi nhắn tin với khách lần đầu?",
+    "A": "Gửi bảng giá và chính sách khuyến mãi",
+    "B": "Giới thiệu bản thân rõ ràng, sử dụng profile uy tín, avatar chuyên nghiệp",
+    "C": "Gửi thật nhiều emoji",
+    "D": "Hỏi khách làm nghề gì",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu khách từ chối: 'Tôi chỉ xem thôi, chưa có nhu cầu', bạn nên làm gì?",
+    "A": "Cảm ơn, lưu lại thông tin để chăm sóc nhẹ nhàng sau",
+    "B": "Chốt luôn vì khách có thể đổi ý",
+    "C": "Xóa khách khỏi danh sách",
+    "D": "Trả lời: Không sao, để em chờ",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời điểm phù hợp nhất để chuyển từ chat sang gọi điện là khi nào?",
+    "A": "Ngay khi khách trả lời lần đầu",
+    "B": "Khi khách bắt đầu thể hiện sự quan tâm rõ ràng (hỏi chi tiết, hỏi đi xem nhà)",
+    "C": "Sau 5 phút im lặng",
+    "D": "Lúc gửi hình ảnh nhà mẫu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lợi ích lớn nhất của tư vấn qua tin nhắn là gì?",
+    "A": "Không cần gặp khách",
+    "B": "Dễ thao túng tâm lý",
+    "C": "Ghi nhận thông tin rõ ràng, dễ chăm sóc lại, tạo cảm giác thoải mái cho khách",
+    "D": "Không cần profile cá nhân đẹp",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao nên cá nhân hóa nội dung khi làm marketing bất động sản?",
+    "A": "Giúp tăng ngân sách quảng cáo",
+    "B": "Tạo cảm giác gần gũi và tăng khả năng chuyển đổi",
+    "C": "Để tránh bị trùng bài viết với người khác",
+    "D": "Để chạy được nhiều nền tảng hơn",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khách hàng trẻ tuổi lần đầu mua nhà thường quan tâm điều gì?",
+    "A": "Giá trị đầu tư dài hạn",
+    "B": "Pháp lý hoàn thiện",
+    "C": "Thiết kế hiện đại, tiện ích sống, phương thức thanh toán nhẹ",
+    "D": "Giá trị cho thuê lại",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đối tượng nhà đầu tư cần content nhấn mạnh điều gì?",
+    "A": "Câu chuyện cảm xúc",
+    "B": "Tiện ích nội khu",
+    "C": "Khả năng tăng giá, pháp lý rõ ràng, chính sách bán hàng",
+    "D": "Thiết kế căn hộ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đâu là cách phù hợp để viết content cho người lớn tuổi mua để ở?",
+    "A": "Nhấn mạnh yếu tố yên tĩnh, gần bệnh viện, môi trường trong lành",
+    "B": "Tập trung vào ROI",
+    "C": "Gợi ý vay ngân hàng lãi suất thấp",
+    "D": "Dùng ngôn ngữ gen Z",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một sai lầm phổ biến khi viết content cho nhiều nhóm khách là gì?",
+    "A": "Viết quá ngắn",
+    "B": "Không cá nhân hóa, dùng chung một nội dung cho tất cả",
+    "C": "Viết thiếu hình ảnh",
+    "D": "Không gắn link đăng ký",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi viết bài cho người độc thân trẻ, nên nhấn mạnh yếu tố gì?",
+    "A": "Đầu tư cho thuê",
+    "B": "Không gian sống cá tính, gần trung tâm, dễ sở hữu",
+    "C": "Phòng rộng dễ nuôi con",
+    "D": "Khuyến mãi đặt cọc nhóm",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nhóm khách gia đình có con nhỏ thường ưu tiên điều gì?",
+    "A": "Tiện ích giáo dục, không gian sống an toàn",
+    "B": "Lãi suất vay ngân hàng",
+    "C": "Giá thuê lại căn hộ",
+    "D": "Kết nối cộng đồng đầu tư",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một công cụ giúp viết content cá nhân hóa hiệu quả là gì?",
+    "A": "Google Translate",
+    "B": "AI phân tích hành vi khách hàng",
+    "C": "Google Maps",
+    "D": "Pinterest",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi chạy quảng cáo Facebook, cách nào giúp xác định đúng đối tượng để cá nhân hóa nội dung?",
+    "A": "Tạo bài viết viral",
+    "B": "Target theo sở thích và hành vi phù hợp từng nhóm",
+    "C": "Chọn ảnh thật nhiều màu sắc",
+    "D": "Dùng ảnh phong thủy",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Để tăng hiệu quả cá nhân hóa, nên làm gì với tệp khách sau khi thu lead?",
+    "A": "Gộp tất cả vào một nhóm chăm sóc chung",
+    "B": "Phân loại theo độ tuổi, nhu cầu, hành vi để gửi nội dung phù hợp",
+    "C": "Gửi tin nhắn hàng loạt một nội dung duy nhất",
+    "D": "Tạm ngưng chăm sóc đến khi khách chủ động",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khái niệm 'phễu bán hàng' trong marketing có nghĩa là gì?",
+    "A": "Chuỗi bài viết hướng dẫn viết content",
+    "B": "Quy trình từ khi khách biết đến sản phẩm đến khi mua hàng",
+    "C": "Dạng quảng cáo có hình phễu",
+    "D": "Cách tối ưu chi phí quảng cáo",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giai đoạn đầu tiên trong phễu bán hàng là gì?",
+    "A": "Xem bảng giá",
+    "B": "Gọi điện mời tham quan",
+    "C": "Nhận diện thương hiệu (Awareness)",
+    "D": "Thu lead",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu của giai đoạn 'Consideration' trong phễu là gì?",
+    "A": "Bán hàng ngay lập tức",
+    "B": "Tạo niềm tin và cung cấp thông tin giúp khách ra quyết định",
+    "C": "Thu thập email",
+    "D": "Tăng like fanpage",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giai đoạn 'Decision' trong phễu nên dùng loại content nào?",
+    "A": "Tin tức thị trường chung",
+    "B": "Chia sẻ cuộc sống cá nhân",
+    "C": "Thông tin sản phẩm, bảng giá, pháp lý rõ ràng",
+    "D": "Video hài hước",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lý do nên phân loại content theo từng giai đoạn của phễu?",
+    "A": "Để tăng tính sáng tạo",
+    "B": "Để tạo được độ phủ rộng",
+    "C": "Để tối ưu hiệu quả và đúng nhu cầu từng nhóm khách",
+    "D": "Để không bị Facebook khóa tài khoản",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Công cụ nào giúp đo lường hiệu quả từng giai đoạn của phễu?",
+    "A": "Facebook Pixel",
+    "B": "Canva",
+    "C": "CapCut",
+    "D": "Google Dịch",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Dạng nội dung nào nên ưu tiên cho giai đoạn Awareness?",
+    "A": "Video ngắn, nội dung chạm cảm xúc, dễ lan truyền",
+    "B": "Bảng giá và chính sách thanh toán",
+    "C": "Form đăng ký",
+    "D": "Lịch thanh toán chi tiết",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Ở giai đoạn nào nên sử dụng quảng cáo 'Thu khách hàng tiềm năng'?",
+    "A": "Awareness",
+    "B": "Consideration",
+    "C": "Decision",
+    "D": "Tất cả các giai đoạn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao việc remarketing lại quan trọng trong phễu bán hàng?",
+    "A": "Để tiết kiệm thời gian đăng bài",
+    "B": "Vì khách thường không mua ngay lần đầu, cần nhắc lại nhiều lần",
+    "C": "Vì khách thích quảng cáo lặp lại",
+    "D": "Để tăng view TikTok",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một phễu hiệu quả là phễu có đặc điểm gì?",
+    "A": "Chỉ có 1 giai đoạn duy nhất",
+    "B": "Tập trung thu lead càng nhanh càng tốt",
+    "C": "Có phân tầng rõ ràng, nội dung & quảng cáo phù hợp từng giai đoạn",
+    "D": "Dùng 1 mẫu content cho tất cả giai đoạn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao việc nuôi dưỡng lead lại quan trọng trong bán hàng bất động sản?",
+    "A": "Vì giúp tiết kiệm chi phí quảng cáo",
+    "B": "Vì không ai mua ngay trong lần tiếp cận đầu",
+    "C": "Vì dễ đo lường",
+    "D": "Vì tạo được thương hiệu cá nhân",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Sau khi có lead, hành động đầu tiên nên làm là gì?",
+    "A": "Gọi điện ngay để tư vấn",
+    "B": "Gửi tin nhắn cảm ơn, xác nhận thông tin và hẹn lịch",
+    "C": "Thêm số vào nhóm chat Zalo",
+    "D": "Gửi bảng giá",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách nào sau đây KHÔNG phù hợp với việc nuôi dưỡng lead?",
+    "A": "Gửi email tự động với nội dung giá trị",
+    "B": "Gọi điện mỗi ngày dù khách chưa phản hồi",
+    "C": "Tạo chuỗi tin nhắn Zalo/Inbox định kỳ",
+    "D": "Kết nối trên mạng xã hội để chia sẻ nội dung hữu ích",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tần suất phù hợp để gửi tin nhắn nuôi dưỡng khách hàng qua Zalo là bao lâu?",
+    "A": "Mỗi ngày",
+    "B": "1 tuần 2–3 lần, nội dung hữu ích và không spam",
+    "C": "Chỉ khi có chương trình khuyến mãi",
+    "D": "Không cần gửi nếu khách chưa phản hồi",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào giúp tăng khả năng khách hàng phản hồi lại khi nuôi dưỡng lead?",
+    "A": "Nội dung cá nhân hóa và mang tính giải pháp",
+    "B": "Gửi thật nhiều thông tin sản phẩm",
+    "C": "Dùng từ ngữ chuyên ngành",
+    "D": "Giới thiệu thông tin chủ đầu tư nhiều lần",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một công cụ miễn phí giúp nuôi dưỡng khách hàng hiệu quả là gì?",
+    "A": "Facebook remarketing",
+    "B": "Zalo cá nhân với nội dung định kỳ",
+    "C": "Google Ads",
+    "D": "TikTok Shop",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao cần phân loại lead (ví dụ: nóng – ấm – lạnh)?",
+    "A": "Để biết ai là người đầu tư",
+    "B": "Để tập trung nguồn lực vào khách có tiềm năng cao",
+    "C": "Để dễ lập bảng giá",
+    "D": "Để báo cáo với quản lý",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách hàng phản hồi 'đang cân nhắc', bạn nên làm gì?",
+    "A": "Không liên lạc nữa để tránh làm phiền",
+    "B": "Gửi thêm thông tin và giữ liên lạc nhẹ nhàng theo lịch trình nuôi dưỡng",
+    "C": "Chuyển lead cho người khác",
+    "D": "Gọi ngay mỗi ngày cho đến khi chốt",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào phù hợp nhất để nuôi dưỡng khách hàng đang quan tâm đến pháp lý?",
+    "A": "Ảnh phối cảnh 3D",
+    "B": "Chia sẻ thông tin tiến độ pháp lý, thời điểm ký hợp đồng mua bán",
+    "C": "Lịch thanh toán",
+    "D": "Video trải nghiệm tiện ích",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một sai lầm phổ biến trong nuôi dưỡng khách hàng là gì?",
+    "A": "Chia sẻ giá trị liên tục",
+    "B": "Chăm sóc quá mức làm khách khó chịu",
+    "C": "Chia sẻ nội dung liên quan đến đầu tư",
+    "D": "Duy trì tương tác thụ động",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi chạy quảng cáo Facebook để thu lead, nên chọn mục tiêu nào?",
+    "A": "Tương tác bài viết",
+    "B": "Lượt tiếp cận",
+    "C": "Khách hàng tiềm năng (Lead Generation)",
+    "D": "Lưu lượng truy cập",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thành phần nào sau đây ảnh hưởng lớn nhất đến chi phí quảng cáo TikTok?",
+    "A": "Tổng số hashtag",
+    "B": "Chất lượng video và chỉ số tương tác (CTR, giữ chân)",
+    "C": "Tên tài khoản",
+    "D": "Thời gian đăng bài",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một mẫu quảng cáo hiệu quả thường có thời lượng bao nhiêu trên TikTok?",
+    "A": "10–15 giây",
+    "B": "30–60 giây",
+    "C": "1–2 phút",
+    "D": "Hơn 2 phút",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào sau đây KHÔNG giúp tối ưu mẫu quảng cáo Facebook?",
+    "A": "Hình ảnh rõ nét, bắt mắt",
+    "B": "Thông điệp quá dài, nhiều chữ nhỏ",
+    "C": "CTA rõ ràng như 'Đăng ký nhận thông tin'",
+    "D": "Tập trung vào lợi ích khách hàng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách tốt nhất để cải thiện tỷ lệ chuyển đổi từ quảng cáo Facebook?",
+    "A": "Thêm biểu tượng cảm xúc",
+    "B": "Tối ưu form thu lead ngắn gọn, ít trường thông tin",
+    "C": "Gắn nhiều hashtag",
+    "D": "Dẫn về nhiều liên kết khác nhau",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chỉ số nào quan trọng để đánh giá hiệu quả quảng cáo TikTok?",
+    "A": "Số lượt thích",
+    "B": "Tỷ lệ giữ chân video (Retention rate)",
+    "C": "Tên video",
+    "D": "Bình luận tích cực",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi chạy Facebook Ads cho BĐS, yếu tố nào sau đây giúp tăng độ tin cậy?",
+    "A": "Ảnh thực tế, feedback khách hàng, pháp lý rõ ràng",
+    "B": "Ảnh render chưa có người",
+    "C": "Chèn bảng giá đầy đủ",
+    "D": "Dùng thông điệp ngắn như 'Hot Deal!'",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Video nào sau đây có khả năng chuyển đổi tốt trên TikTok?",
+    "A": "Walkthrough nhà mẫu có dẫn chuyện và kết thúc bằng CTA",
+    "B": "Slide ảnh tĩnh",
+    "C": "Video tua nhanh bảng giá",
+    "D": "Video nhạc nền không nội dung",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi quảng cáo Facebook bị duyệt chậm hoặc không hiệu quả, việc đầu tiên nên làm là gì?",
+    "A": "Tăng ngân sách",
+    "B": "Thay đổi hình ảnh hoặc nội dung vi phạm chính sách",
+    "C": "Tắt và bật lại quảng cáo",
+    "D": "Mua tài khoản mới",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mẫu quảng cáo TikTok hiệu quả nên có yếu tố nào ngay 3 giây đầu?",
+    "A": "Logo công ty",
+    "B": "Tiêu đề hấp dẫn hoặc vấn đề gợi tò mò",
+    "C": "Chèn QR code",
+    "D": "Hình ảnh nội thất",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp marketing nào dưới đây đánh trúng tâm lý *khách mua ở thực*?",
+    "A": "Sống xanh, tiện nghi, kết nối dễ dàng đến trung tâm",
+    "B": "Tăng giá 20% trong 6 tháng",
+    "C": "Đầu tư dòng tiền, khai thác cho thuê",
+    "D": "Chiết khấu cho khách chuyển nhượng",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Câu thông điệp nào thể hiện lợi ích rõ ràng và dễ hành động?",
+    "A": "TT AVIO – Căn hộ Nhật Bản tại Đông Bắc Sài Gòn",
+    "B": "Chỉ từ 399 triệu – Nhận nhà đúng tiến độ, pháp lý minh bạch",
+    "C": "Phát triển bởi chủ đầu tư uy tín",
+    "D": "Giá tốt trong khu vực",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi phân tích thông điệp 'Chạm chuẩn Nhật – Sống đa phong cách', yếu tố nào nổi bật?",
+    "A": "Tập trung vào giá bán",
+    "B": "Nhấn mạnh đặc điểm thiết kế và trải nghiệm sống khác biệt",
+    "C": "Kêu gọi đầu tư",
+    "D": "Phân tích lợi nhuận tài chính",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp nào phù hợp để truyền tải trong giai đoạn chạy quảng cáo mở bán đầu tiên?",
+    "A": "Dự án có pháp lý rõ ràng và sổ hồng riêng từng căn",
+    "B": "Mở bán đợt đầu – giữ chỗ chỉ 30 triệu, ưu tiên chọn căn đẹp!",
+    "C": "So sánh với các khu vực khác",
+    "D": "Thông tin chi tiết chủ đầu tư",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào làm cho thông điệp marketing dễ lan truyền?",
+    "A": "Sử dụng văn bản dài và chuyên sâu",
+    "B": "Dễ hiểu, gần gũi, đánh trúng cảm xúc người xem",
+    "C": "Nhiều từ khóa SEO",
+    "D": "Dẫn link đến nhiều bài viết khác",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp 'Tạo lập tài sản đầu tiên tại TP.HCM chỉ từ 399 triệu' sử dụng nguyên tắc gì?",
+    "A": "Khơi gợi nỗi sợ",
+    "B": "Gây sốc bằng giá",
+    "C": "Đánh vào giấc mơ sở hữu nhà và sự khả thi tài chính",
+    "D": "Tập trung mô tả sản phẩm",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi viết thông điệp cho người lần đầu mua nhà, nên tránh điều gì?",
+    "A": "Dùng từ chuyên ngành như 'Condotel', 'giá trị khai thác dòng tiền'",
+    "B": "Thông điệp cảm xúc tích cực",
+    "C": "Mô tả tiện ích xung quanh",
+    "D": "Gợi ý phương thức thanh toán linh hoạt",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp nào phù hợp để tiếp cận nhà đầu tư ngắn hạn?",
+    "A": "Dễ sang nhượng – pháp lý rõ ràng – thị trường đang tăng giá",
+    "B": "Không gian sống yên tĩnh, nội khu đầy đủ",
+    "C": "Nội thất chuẩn Nhật Bản",
+    "D": "Gần trường học và bệnh viện",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp 'Sống khỏe giữa lòng thành phố công nghiệp' nên được truyền thông như thế nào?",
+    "A": "Thông qua video trải nghiệm cư dân",
+    "B": "Chèn vào phần cuối bài viết",
+    "C": "Làm bài phân tích tài chính",
+    "D": "Đặt trong bảng giá sản phẩm",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu lớn nhất của thông điệp marketing trong bất động sản là gì?",
+    "A": "Làm khách hàng nhớ tên dự án",
+    "B": "Tạo ấn tượng đủ mạnh để khách hành động (như nhắn tin, để lại số)",
+    "C": "Đăng nhiều trên mạng xã hội",
+    "D": "Trở thành bài viết viral",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tệp khách hàng từ 25–35 tuổi, thường xuyên sử dụng mạng xã hội, phù hợp nhất với kênh nào?",
+    "A": "Facebook & TikTok",
+    "B": "Báo in & tờ rơi",
+    "C": "Zalo & Email",
+    "D": "YouTube & Truyền hình",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Kênh nào giúp xây dựng thương hiệu cá nhân lâu dài cho môi giới bất động sản?",
+    "A": "Facebook cá nhân & YouTube",
+    "B": "TikTok & TVC",
+    "C": "Email & Biển quảng cáo",
+    "D": "Zalo & Tờ rơi",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách hàng cần sự tin tưởng và cảm giác an tâm, nội dung nào nên được ưu tiên?",
+    "A": "Ảnh phối cảnh",
+    "B": "Câu chuyện thực tế, hình ảnh thật, cảm nhận khách cũ",
+    "C": "Video quảng cáo nghệ thuật",
+    "D": "Chèn bảng giá chi tiết",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Zalo OA phù hợp để sử dụng với mục đích gì?",
+    "A": "Chạy quảng cáo hiển thị",
+    "B": "Gửi thông tin mới, chăm sóc lại khách hàng cũ",
+    "C": "Xây dựng thương hiệu cá nhân",
+    "D": "Tạo group cộng đồng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Với khách hàng ở độ tuổi 40–60, kênh nào thường hiệu quả hơn?",
+    "A": "TikTok",
+    "B": "Facebook cá nhân & Zalo",
+    "C": "Instagram",
+    "D": "LinkedIn",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu nào phù hợp nhất khi chọn chạy quảng cáo Lead Ads trên Facebook?",
+    "A": "Tăng lượt thích bài viết",
+    "B": "Thu thông tin khách hàng tiềm năng",
+    "C": "Tăng tương tác fanpage",
+    "D": "Hiển thị thương hiệu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Instagram thường phù hợp với loại nội dung nào?",
+    "A": "Video phỏng vấn khách hàng",
+    "B": "Bài viết dài",
+    "C": "Hình ảnh đẹp, lifestyle và thẩm mỹ cao",
+    "D": "Thông tin pháp lý dự án",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao YouTube phù hợp với việc giới thiệu chi tiết dự án BĐS?",
+    "A": "Chi phí thấp",
+    "B": "Khách hàng không cần tìm kiếm thông tin",
+    "C": "Có thể trình bày video dài, walkthrough dự án, giải thích trực quan",
+    "D": "Có nhiều hiệu ứng bắt mắt",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "TikTok phù hợp nhất để truyền tải nội dung nào?",
+    "A": "Thông báo pháp lý",
+    "B": "Video ngắn gây cảm xúc hoặc chia sẻ trải nghiệm thực tế",
+    "C": "Bảng giá cập nhật",
+    "D": "Hồ sơ kỹ thuật dự án",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi chọn kênh truyền thông, yếu tố quan trọng nhất là gì?",
+    "A": "Chi phí quảng cáo",
+    "B": "Thời gian triển khai",
+    "C": "Tệp khách hàng mục tiêu đang sử dụng kênh nào",
+    "D": "Có người hỗ trợ triển khai",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Loại nội dung nào sau đây KHÔNG phù hợp với Facebook Ads?",
+    "A": "Bài viết chia sẻ cảm xúc",
+    "B": "Ảnh thật từ nhà mẫu",
+    "C": "Video testimonial khách hàng",
+    "D": "Ảnh scan hợp đồng mua bán",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách hàng đã biết đến dự án và quan tâm, nội dung tiếp theo nên là gì?",
+    "A": "Thông tin pháp lý, chính sách bán hàng, tiến độ",
+    "B": "Ảnh phối cảnh",
+    "C": "Ảnh selfie của bạn",
+    "D": "Thơ ca cảm xúc",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Fanpage doanh nghiệp thường phù hợp để làm gì?",
+    "A": "Giao tiếp cá nhân",
+    "B": "Xây dựng hình ảnh thương hiệu, quảng cáo và hỗ trợ tư vấn ban đầu",
+    "C": "Chia sẻ tin tức báo chí",
+    "D": "Lưu trữ tài liệu nội bộ",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lý do nên xây dựng nội dung phù hợp theo từng kênh?",
+    "A": "Mỗi kênh có định dạng & hành vi người dùng khác nhau",
+    "B": "Để tránh trùng lặp bài viết",
+    "C": "Để làm đẹp profile",
+    "D": "Để tăng lượt xem tự nhiên",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào phù hợp nhất với kênh YouTube?",
+    "A": "Ảnh tĩnh kèm nhạc nền",
+    "B": "Walkthrough nhà mẫu, phân tích dự án, Q&A",
+    "C": "Ảnh phối cảnh có logo",
+    "D": "Chèn bảng hàng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "LinkedIn có thể hữu ích với nhóm khách hàng nào?",
+    "A": "Người lớn tuổi",
+    "B": "Chuyên gia, kỹ sư, quản lý cấp cao có nhu cầu mua đầu tư hoặc ở chất lượng cao",
+    "C": "Học sinh – sinh viên",
+    "D": "Người thích du lịch",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi chạy quảng cáo Reels trên Facebook và Instagram, thời lượng tối ưu là?",
+    "A": "15–30 giây",
+    "B": "2 phút",
+    "C": "5 phút",
+    "D": "10 phút",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Kênh nào giúp bạn kiểm soát được dữ liệu khách hàng và chủ động chăm sóc lại?",
+    "A": "Facebook cá nhân",
+    "B": "YouTube",
+    "C": "Zalo OA & CRM tích hợp",
+    "D": "Tờ rơi",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào sau đây phù hợp với khách hàng đang trong giai đoạn cân nhắc (consideration)?",
+    "A": "Thông tin pháp lý rõ ràng",
+    "B": "Ảnh selfie với nhà mẫu",
+    "C": "Thông tin cá nhân của môi giới",
+    "D": "Ảnh render chưa chỉnh sửa",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nên phối hợp nhiều kênh social để làm gì?",
+    "A": "Tăng ngân sách",
+    "B": "Tạo sự đồng bộ thông điệp, tiếp cận khách ở nhiều điểm chạm khác nhau",
+    "C": "Gây nhiễu khách hàng",
+    "D": "Đẩy nhanh tốc độ chốt",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu quan trọng nhất khi viết content bất động sản là gì?",
+    "A": "Làm đẹp bài viết",
+    "B": "Tăng tương tác comment",
+    "C": "Thuyết phục khách hàng quan tâm và hành động (như inbox, để lại số)",
+    "D": "Chèn nhiều từ khóa",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cấu trúc phổ biến trong content marketing hiệu quả là gì?",
+    "A": "Giới thiệu - Giá - Chính sách",
+    "B": "AIDA: Attention - Interest - Desire - Action",
+    "C": "Mở bài - Thân bài - Kết luận",
+    "D": "Tiêu đề - Hình ảnh - Giá",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Phần tiêu đề (headline) nên có đặc điểm gì để thu hút người đọc?",
+    "A": "Ngắn và gây chú ý, có con số hoặc cảm xúc mạnh",
+    "B": "Dài và mô tả chi tiết",
+    "C": "Viết hoa toàn bộ",
+    "D": "Chỉ nói tên dự án",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào phù hợp để tạo niềm tin với khách hàng trên social media?",
+    "A": "Bảng giá chi tiết",
+    "B": "Ảnh phối cảnh 3D",
+    "C": "Câu chuyện thật về hành trình mua nhà hoặc dẫn khách đi xem",
+    "D": "Ảnh selfie mỗi ngày",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào KHÔNG nên xuất hiện trong bài viết quảng bá BĐS?",
+    "A": "Giá bán dự kiến",
+    "B": "Thông tin pháp lý rõ ràng",
+    "C": "Lịch sử hình thành dự án chi tiết",
+    "D": "CTA rõ ràng như 'Inbox ngay để nhận bảng hàng'",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một content thu hút nên có yếu tố nào sau đây?",
+    "A": "Nội dung dài với nhiều số liệu",
+    "B": "Sử dụng storytelling (kể chuyện)",
+    "C": "Chèn toàn bộ bảng giá",
+    "D": "Viết văn phong như hợp đồng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vì sao nên chèn câu hỏi mở trong bài viết bán hàng?",
+    "A": "Để kéo dài nội dung",
+    "B": "Tăng tính tương tác và dẫn dắt người đọc suy nghĩ",
+    "C": "Tạo cảm giác khó hiểu",
+    "D": "Không có lý do cụ thể",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Câu kết bài nên có yếu tố nào để tăng chuyển đổi?",
+    "A": "Cảm ơn người đọc",
+    "B": "Giá chi tiết",
+    "C": "Lời kêu gọi hành động (CTA) rõ ràng",
+    "D": "Địa chỉ văn phòng",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đâu là ví dụ về CTA mạnh trong content BĐS?",
+    "A": "'Inbox nếu cần thêm thông tin'",
+    "B": "'Đăng ký ngay để giữ suất mở bán đầu tiên – chỉ còn 10 căn!'",
+    "C": "'Xem thêm tại website công ty'",
+    "D": "'Chúc bạn một ngày tốt lành'",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi viết bài cho người mua ở thực, nên nhấn mạnh điều gì?",
+    "A": "Tiềm năng tăng giá",
+    "B": "Khả năng sinh lời cho thuê",
+    "C": "Không gian sống, tiện ích và phương thức thanh toán phù hợp",
+    "D": "Bảng giá và hoa hồng",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lỗi phổ biến trong content bán bất động sản là gì?",
+    "A": "Dùng hình ảnh thật",
+    "B": "Viết quá dài, thiếu điểm nhấn",
+    "C": "Có icon minh họa",
+    "D": "Dùng hashtag liên quan",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách dùng từ nào sau đây giúp content trở nên gợi cảm xúc hơn?",
+    "A": "Sử dụng các động từ mạnh và từ cảm xúc như 'chạm đến ước mơ', 'an yên', 'nồng ấm'",
+    "B": "Viết toàn bộ bằng ngôn ngữ kỹ thuật",
+    "C": "Lặp lại từ 'mới', 'hot', 'giá rẻ'",
+    "D": "Viết giống văn bản hành chính",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vì sao hình ảnh và video quan trọng trong content bất động sản?",
+    "A": "Giúp tăng độ dài bài viết",
+    "B": "Tạo sự sinh động, giúp khách hình dung sản phẩm và tin tưởng hơn",
+    "C": "Để Facebook duyệt bài nhanh",
+    "D": "Làm đẹp fanpage",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao nên viết content phù hợp với từng đối tượng khách hàng?",
+    "A": "Để tiết kiệm thời gian viết",
+    "B": "Để tăng hiệu quả chuyển đổi bằng cách đánh trúng nhu cầu riêng của từng nhóm",
+    "C": "Để dễ chỉnh sửa lại",
+    "D": "Để không cần chạy ads",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Câu nào sau đây là ví dụ tốt về mở bài thu hút trong content BĐS?",
+    "A": "Tôi đang bán căn hộ",
+    "B": "Bạn đã từng nghĩ đến việc sở hữu căn hộ chuẩn phong cách Nhật Bản với chỉ từ 1,4 tỷ?",
+    "C": "Dưới đây là thông tin dự án",
+    "D": "Chúng tôi giới thiệu dự án mới",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Đâu là điều cần tránh khi viết content bất động sản?",
+    "A": "Dùng quá nhiều dấu chấm than và icon",
+    "B": "Viết đúng chính tả",
+    "C": "Nêu rõ thông tin pháp lý",
+    "D": "Đưa ra hình ảnh thực tế",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời lượng phù hợp cho video content giới thiệu dự án trên mạng xã hội là?",
+    "A": "Dưới 1 phút",
+    "B": "3–5 phút",
+    "C": "5–10 phút",
+    "D": "Hơn 10 phút",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục đích chính của việc viết content chia sẻ kiến thức pháp lý, quy hoạch là gì?",
+    "A": "Tăng tương tác",
+    "B": "Tạo độ tin cậy và hình ảnh chuyên nghiệp cho môi giới",
+    "C": "Thu hút nhà đầu tư nước ngoài",
+    "D": "Tăng lượng từ khóa SEO",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Loại nội dung nào KHÔNG nên dùng khi viết bài cho khách đầu tư?",
+    "A": "Tiềm năng sinh lời",
+    "B": "Lịch thanh toán & thời gian bàn giao",
+    "C": "Thông tin quy hoạch lân cận",
+    "D": "Cảm xúc cá nhân, chuyện đời tư",
+    "answer": "D"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào sau đây giúp một content được chia sẻ nhiều hơn?",
+    "A": "Thông tin hữu ích, cảm xúc tích cực, tạo giá trị cho người đọc",
+    "B": "Viết bằng giọng điệu quá trang trọng",
+    "C": "Copy từ bài viết khác",
+    "D": "Tập trung vào từ ngữ chuyên ngành",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Vì sao Social Media được xem là kênh hiệu quả cho ngành bất động sản?",
+    "A": "Giá rẻ hơn truyền hình",
+    "B": "Khách hàng trẻ không đọc báo",
+    "C": "Tạo được tương tác và niềm tin thông qua nội dung hình ảnh, video, phản hồi trực tiếp",
+    "D": "Chạy quảng cáo dễ hơn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Kênh social media nào được dùng phổ biến nhất để chạy quảng cáo bất động sản tại Việt Nam hiện nay?",
+    "A": "LinkedIn",
+    "B": "Instagram",
+    "C": "Facebook",
+    "D": "Twitter",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tệp khách hàng nào phù hợp với chiến dịch quảng cáo bất động sản trên TikTok?",
+    "A": "Người cao tuổi trên 60",
+    "B": "Người trẻ 25–35 tuổi quan tâm phong cách sống",
+    "C": "Doanh nhân thành đạt",
+    "D": "Chuyên viên pháp lý",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chỉ số nào sau đây phản ánh mức độ hấp dẫn của mẫu quảng cáo social media?",
+    "A": "CPM",
+    "B": "CTR",
+    "C": "Impression",
+    "D": "Reach",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Điểm khác biệt lớn nhất của quảng cáo Facebook Lead Ads so với quảng cáo thông thường là gì?",
+    "A": "Không cần hình ảnh",
+    "B": "Không tốn chi phí",
+    "C": "Thu thập thông tin khách hàng ngay trên Facebook",
+    "D": "Chạy nhanh hơn Google Ads",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào dưới đây phù hợp nhất để đăng lên Facebook cá nhân của một môi giới BĐS?",
+    "A": "Hình ảnh tiệc tùng cuối tuần",
+    "B": "Câu chuyện dẫn khách đi xem nhà và cảm nhận của khách",
+    "C": "Tin tức xã hội gây sốc",
+    "D": "Ảnh du lịch không có mô tả",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào sau đây làm tăng khả năng chốt đơn từ khách hàng đến từ social media?",
+    "A": "Tạo cảm xúc qua video & hình ảnh thực tế",
+    "B": "Đăng bài thường xuyên mỗi giờ",
+    "C": "Dùng thật nhiều emoji",
+    "D": "Trả lời ngắn gọn mọi câu hỏi",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thông điệp nào sau đây KHÔNG phù hợp với tệp người mua ở thực?",
+    "A": "Chỉ từ 9 triệu/tháng – không vay ngân hàng",
+    "B": "View sân bay – đầu tư sinh lời ngay",
+    "C": "Căn hộ Nhật Bản đa phong cách, tiện ích đủ đầy",
+    "D": "Thanh toán linh hoạt theo nhu cầu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Kênh nào giúp bạn remarketing hiệu quả nhất cho khách đã từng quan tâm dự án?",
+    "A": "Tờ rơi",
+    "B": "Zalo OA & Chatbot",
+    "C": "Biển quảng cáo ngoài trời",
+    "D": "Hội chợ bất động sản",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi viết bài chạy quảng cáo Facebook, yếu tố nào cần được ưu tiên đầu tiên?",
+    "A": "Giá",
+    "B": "Tên dự án",
+    "C": "Lợi ích – sự khác biệt với dự án khác",
+    "D": "Thông tin pháp lý",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao nên dùng hình ảnh thật thay vì ảnh 3D khi chạy social media?",
+    "A": "Vì ảnh 3D lỗi thời",
+    "B": "Vì khách thích hình ảnh lung linh",
+    "C": "Vì hình thật tạo cảm giác tin tưởng và gần gũi hơn",
+    "D": "Vì chi phí thấp hơn",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lý do nào khiến social media phù hợp để xây dựng thương hiệu cá nhân cho môi giới?",
+    "A": "Cho phép đăng nhiều bài miễn phí",
+    "B": "Tạo uy tín qua chia sẻ kiến thức, tư vấn chuyên nghiệp",
+    "C": "Không cần đầu tư thời gian",
+    "D": "Có thể chia sẻ ảnh selfie mỗi ngày",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào quan trọng nhất khi thiết lập mục tiêu chạy quảng cáo bất động sản trên Facebook?",
+    "A": "Tăng lượt chia sẻ bài viết",
+    "B": "Tăng tương tác bình luận",
+    "C": "Thu được thông tin khách hàng tiềm năng (leads)",
+    "D": "Tăng follow fanpage",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao nên dùng video ngắn (reels, story) trong quảng bá dự án?",
+    "A": "Vì TikTok bắt buộc",
+    "B": "Vì khách không thích đọc",
+    "C": "Vì video giúp truyền tải cảm xúc nhanh và có khả năng viral",
+    "D": "Vì Facebook hạn chế bài viết chữ",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mẫu tiêu đề nào sau đây thường có tỷ lệ click cao nhất?",
+    "A": "Căn hộ TT AVIO – block mới ra mắt",
+    "B": "🔥Chỉ 1,4 tỷ – Sở hữu ngay căn hộ Nhật Bản tại Dĩ An!",
+    "C": "Thông tin mở bán block Orion",
+    "D": "Thông báo nhận booking",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời điểm nào đăng bài Facebook thường có tương tác tốt nhất cho BĐS?",
+    "A": "6:00 sáng và 20:00 tối",
+    "B": "12:00 trưa và 23:00 khuya",
+    "C": "15:00 chiều và 18:00 tối",
+    "D": "8:00 sáng và 14:00 chiều",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao cần remarketing lại khách đã tương tác với bài viết BĐS trước đó?",
+    "A": "Để tận dụng ngân sách",
+    "B": "Để tăng tần suất hiển thị & đưa khách về bước mua",
+    "C": "Vì Facebook yêu cầu",
+    "D": "Để tăng like fanpage",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu một quảng cáo có nhiều click nhưng ít khách để lại thông tin, vấn đề nằm ở đâu?",
+    "A": "Do giá quá cao",
+    "B": "Do nội dung không rõ CTA hoặc form không hấp dẫn",
+    "C": "Do khách bận",
+    "D": "Do thiết kế hình chưa đẹp",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tệp khách hàng nào sau đây KHÔNG nên ưu tiên khi chạy Facebook Ads BĐS?",
+    "A": "Người vừa xem video về bất động sản",
+    "B": "Người từng inbox fanpage",
+    "C": "Người like page thời trang",
+    "D": "Người đã điền form booking trước đó",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách comment tiêu cực dưới bài quảng cáo, nên xử lý như thế nào?",
+    "A": "Xóa comment",
+    "B": "Ẩn comment và inbox riêng, trả lời rõ ràng & lịch sự",
+    "C": "Chặn người đó",
+    "D": "Không phản hồi",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Điều quan trọng nhất trước khi gọi điện tư vấn khách hàng là gì?",
+    "A": "Chuẩn bị kịch bản gọi và thông tin khách hàng",
+    "B": "Gọi càng sớm càng tốt",
+    "C": "Nhắn tin trước để hỏi lịch rảnh của khách",
+    "D": "Tạo nhóm Zalo để gọi",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Yếu tố nào giúp khách cảm thấy thoải mái khi bạn gọi lần đầu?",
+    "A": "Nói thật nhanh để tiết kiệm thời gian",
+    "B": "Giới thiệu rõ ràng, giọng điệu thân thiện, hỏi xin phép trước khi tư vấn",
+    "C": "Dùng nhiều từ chuyên môn",
+    "D": "Chuyển sang gọi video",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu khách nói 'Tôi đang bận, gọi sau nhé', bạn nên làm gì?",
+    "A": "Gọi lại ngay sau 5 phút",
+    "B": "Gửi tin nhắn hỏi lịch hẹn gọi lại vào lúc phù hợp hơn",
+    "C": "Không gọi nữa",
+    "D": "Gửi voice qua Zalo",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời lượng cuộc gọi đầu tiên nên kéo dài bao lâu là hợp lý?",
+    "A": "Dưới 2 phút",
+    "B": "Tối đa 5-7 phút, đủ để tạo thiện cảm và khám phá nhu cầu",
+    "C": "15 phút",
+    "D": "Càng dài càng tốt",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tín hiệu nào cho thấy khách đang quan tâm thật sự khi nghe máy?",
+    "A": "Khách trả lời 'Ừ'",
+    "B": "Khách đặt nhiều câu hỏi cụ thể và chủ động tương tác",
+    "C": "Khách giữ im lặng",
+    "D": "Khách nói 'Để tôi xem đã'",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi khách im lặng sau khi nghe giá, bạn nên phản ứng thế nào?",
+    "A": "Im lặng theo",
+    "B": "Gợi mở bằng câu hỏi như 'Anh/chị thấy mức giá đó so với kỳ vọng thì thế nào ạ?'",
+    "C": "Giảm giá ngay",
+    "D": "Chuyển chủ đề khác",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Chất lượng âm thanh khi gọi điện nên như thế nào?",
+    "A": "Không quan trọng",
+    "B": "Chỉ cần rõ, không cần yên tĩnh",
+    "C": "Rõ ràng, không ồn, thể hiện sự chuyên nghiệp",
+    "D": "Có tiếng nền để nghe vui tai",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi gọi điện mà khách tỏ ra vội, bạn nên?",
+    "A": "Giới thiệu nhanh và xin lịch hẹn gọi lại chi tiết hơn",
+    "B": "Tư vấn gấp trong 1 phút",
+    "C": "Chốt luôn đặt cọc",
+    "D": "Chuyển sang tin nhắn ngay",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách để kết thúc cuộc gọi hiệu quả là gì?",
+    "A": "Chốt mua ngay lập tức",
+    "B": "Hỏi rõ bước tiếp theo, cảm ơn và hứa sẽ gửi thêm thông tin cụ thể",
+    "C": "Nói 'Anh/chị nghĩ thêm nhé'",
+    "D": "Cúp máy ngay khi tư vấn xong",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Giọng điệu nào nên sử dụng khi tư vấn qua voice call?",
+    "A": "Thân thiện, tự tin, lắng nghe",
+    "B": "Nghiêm túc và lạnh lùng",
+    "C": "Vui vẻ như bạn bè",
+    "D": "Dùng giọng quảng cáo",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Remarketing trong bất động sản có mục tiêu chính là gì?",
+    "A": "Tìm kiếm khách hàng mới",
+    "B": "Nhắc lại thương hiệu và tái kích hoạt khách hàng đã từng quan tâm",
+    "C": "Tăng giá trị hợp đồng",
+    "D": "Giảm chi phí quảng cáo ban đầu",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Khi nào nên bắt đầu chiến dịch remarketing?",
+    "A": "Ngay sau khi khách hàng xem quảng cáo lần đầu",
+    "B": "Sau khi khách hàng mua sản phẩm",
+    "C": "Khi ngân sách dư thừa",
+    "D": "Chỉ khi không có khách mới",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách hiệu quả nhất để triển khai remarketing là gì?",
+    "A": "Gửi email hàng loạt",
+    "B": "Chạy quảng cáo hiển thị lại cho người từng tương tác",
+    "C": "In tờ rơi",
+    "D": "Gọi điện cho tất cả khách từng hỏi giá",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tệp khách hàng nào nên được ưu tiên remarketing?",
+    "A": "Khách đã chốt cọc",
+    "B": "Người đã từng để lại lead hoặc nhắn tin",
+    "C": "Người lạ hoàn toàn",
+    "D": "Bạn bè trên Facebook",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung remarketing hiệu quả nên như thế nào?",
+    "A": "Ngắn gọn, tập trung vào lý do nên quay lại và ưu đãi hiện có",
+    "B": "Thật dài để khách hiểu rõ mọi thứ",
+    "C": "Chỉ có hình ảnh không cần chữ",
+    "D": "Dùng lại nội dung cũ",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Công cụ nào sau đây giúp tạo chiến dịch remarketing hiệu quả nhất?",
+    "A": "Excel",
+    "B": "Facebook Ads Manager hoặc TikTok Ads Manager",
+    "C": "Canva",
+    "D": "Google Translate",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một yếu tố cần thiết để chạy remarketing trên Facebook là gì?",
+    "A": "Gắn mã pixel để theo dõi hành vi người dùng",
+    "B": "Có fanpage 100k like",
+    "C": "Có nhiều video",
+    "D": "Chạy trên tài khoản cá nhân",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nếu khách đã vào website nhưng chưa để lại thông tin, bạn nên?",
+    "A": "Remarketing bằng nội dung gợi mở + ưu đãi hấp dẫn",
+    "B": "Bỏ qua vì khách chưa quan tâm",
+    "C": "Gọi điện trực tiếp",
+    "D": "Chạy quảng cáo với sản phẩm khác",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tại sao remarketing giúp tiết kiệm chi phí hơn quảng cáo tìm khách mới?",
+    "A": "Vì không cần thiết kế hình ảnh",
+    "B": "Do tệp khách đã nhận diện thương hiệu nên tỷ lệ chuyển đổi cao hơn",
+    "C": "Chỉ cần 1 bài viết duy nhất",
+    "D": "Không cần ngân sách",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Thời gian vàng để remarketing khách hàng bất động sản là khi nào?",
+    "A": "Trong 3-7 ngày sau khi khách tương tác",
+    "B": "Sau 1 tháng",
+    "C": "Sau khi dự án bàn giao",
+    "D": "Khi không còn hàng để bán",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Mục tiêu chính của video ngắn trong marketing bất động sản là gì?",
+    "A": "Thu hút tương tác nhanh và tăng nhận diện thương hiệu",
+    "B": "Trình bày toàn bộ thông tin dự án",
+    "C": "Gửi file bảng giá",
+    "D": "Phân tích chuyên sâu pháp lý",
+    "answer": "A"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nền tảng nào đang được ưa chuộng nhất để đăng video ngắn cho môi giới BĐS?",
+    "A": "YouTube",
+    "B": "TikTok và Facebook Reels",
+    "C": "LinkedIn",
+    "D": "Zalo cá nhân",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Độ dài tối ưu cho 1 video ngắn bất động sản hiệu quả là bao nhiêu?",
+    "A": "5-10 giây",
+    "B": "15-45 giây",
+    "C": "2-3 phút",
+    "D": "Trên 1 phút 30",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào sau đây phù hợp nhất để làm video ngắn?",
+    "A": "Giới thiệu tổng thể dự án",
+    "B": "Tổng hợp tất cả chính sách",
+    "C": "1 insight nhỏ (ví dụ: view hồ bơi, vị trí đẹp, tiến độ xây dựng)",
+    "D": "Đọc lại hợp đồng mua bán",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Tần suất lý tưởng để đăng video ngắn trên TikTok/Facebook là?",
+    "A": "1 tuần 1 video",
+    "B": "Mỗi ngày 1 video hoặc ít nhất 3 video/tuần",
+    "C": "1 tháng đăng 2 video",
+    "D": "Không cần đăng thường xuyên",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Cách mở đầu video ngắn hiệu quả nhất là?",
+    "A": "Giới thiệu tên và nghề nghiệp",
+    "B": "Đặt câu hỏi, kể tình huống hoặc thể hiện sự bất ngờ để giữ chân người xem",
+    "C": "Đọc bảng giá",
+    "D": "Mở nhạc nền",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Lý do nên gắn sub (phụ đề) cho video ngắn là gì?",
+    "A": "Để video dài hơn",
+    "B": "Nhiều người xem khi tắt tiếng, sub giúp giữ lại người xem",
+    "C": "Để che logo đối thủ",
+    "D": "Tăng độ khó cho video",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Hashtag trong video ngắn có vai trò gì?",
+    "A": "Trang trí",
+    "B": "Tăng khả năng được phân phối tới đúng tệp người xem",
+    "C": "Làm đẹp caption",
+    "D": "Không có tác dụng",
+    "answer": "B"
+  },
+  {
+    "project": "ttavio",
+    "question": "Nội dung nào sau đây KHÔNG phù hợp làm video ngắn đầu phễu?",
+    "A": "Cảnh đẹp từ dự án, view căn hộ",
+    "B": "Tình huống hài hước về nhu cầu mua nhà",
+    "C": "Tư vấn chi tiết chính sách vay ngân hàng",
+    "D": "Khuyến mãi sốc trong tuần",
+    "answer": "C"
+  },
+  {
+    "project": "ttavio",
+    "question": "Một lỗi phổ biến khi làm video ngắn là gì?",
+    "A": "Không dùng micro tốt",
+    "B": "Lồng nhạc bản quyền",
+    "C": "Thông tin quá nhiều khiến người xem không nhớ gì",
+    "D": "Tất cả các ý trên",
+    "answer": "D"
   }
 ]
